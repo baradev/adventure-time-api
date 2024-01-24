@@ -6,21 +6,15 @@ use App\Http\Controllers\KingdomController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
-
-// index
-// create
-// store
-// show
-// edit
-// update
-// destroy
-
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
 Route::get('/kingdoms', [KingdomController::class, 'index']);
 Route::get('/kingdoms/paginated', [KingdomController::class, 'paginated']);
+Route::get('/kingdoms/slug/{slug}', [KingdomController::class, 'showBySlug']);
+Route::get('/kingdoms/{id}', [KingdomController::class, 'show']);
+
 
 Route::get('/episodes', [EpisodeController::class, 'index']);
 Route::get('/episodes/paginated', [EpisodeController::class, 'paginated']);

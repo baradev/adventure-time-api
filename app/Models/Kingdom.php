@@ -17,4 +17,11 @@ class Kingdom extends Model
     public function characters(){
         return $this->hasMany(Character::class, 'kingdom_slug', 'slug');
     }
+
+    
+    public function characters2(){
+        return $this->hasMany(Character::class, 'kingdom_slug', 'slug');
+    }
+
+
 }
