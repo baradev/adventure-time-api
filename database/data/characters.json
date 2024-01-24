@@ -1,0 +1,26 @@
+[
+    {
+        "slug": "finn",
+        "name": "Finn",
+        "full_name": "Finn Mertens",
+        "description": "cool man",
+        "specie": "Human",
+        "quotes": ["oh yeah", "Adventure time!"],
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE2MzA0NTI3M15BMl5BanBnXkFtZTgwMTgyMDU1MjE@._V1_.jpg",
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE2MzA0NTI3M15BMl5BanBnXkFtZTgwMTgyMDU1MjE@._V1_.jpg",
+        "kingdom_slug" :"candy-kingdom"
+    },
+    {
+        "slug": "jake",
+        "name": "Jake",
+        "full_name": "Jake the Dog",
+        "description": "cool man",
+        "specie": "Magical Dog",
+        "quotes": [
+            "Dude, suckin' at something is the first step to being sorta good at something.",
+            "Mathematical!"
+        ],
+        "image": "https://www.sosyncd.com/wp-content/uploads/2022/08/10-8.png",
+        "thumbnail": "https://www.sosyncd.com/wp-content/uploads/2022/08/10-8.png",
+        "kingdom_slug": "candy-kingdom"    }
+]
