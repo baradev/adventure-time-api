@@ -18,6 +18,8 @@ Route::get('/kingdoms/{id}', [KingdomController::class, 'show']);
 
 Route::get('/episodes', [EpisodeController::class, 'index']);
 Route::get('/episodes/paginated', [EpisodeController::class, 'paginated']);
+Route::get('/episodes/slug/{slug}', [EpisodeController::class, 'showBySlug']);
+Route::get('/episodes/{id}', [EpisodeController::class, 'show']);
 
 Route::get('/characters', [CharacterController::class, 'index']);
 Route::get('/characters/paginated', [CharacterController::class, 'paginated']);

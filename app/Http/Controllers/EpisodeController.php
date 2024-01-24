@@ -4,11 +4,15 @@ namespace App\Http\Controllers;
 
 use App\Models\Episode;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Validator;
+use \Illuminate\Database\Eloquent\Builder as EloquentBuilder;
 
 class EpisodeController extends Controller
 {
-    public function index(){
-        $episodes = $this->params(request(), false);
+    public function index(Request $request){
+        $query = Episode::query();
+        $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+        $episodes = $queryWithRelationships->get();
 
         return response()->json([
             "message" => "items retrieved successfully",
@@ -16,8 +20,10 @@ class EpisodeController extends Controller
         ]);
     }
 
-    public function paginated(){
-        $episodes = $this->params(request(), true);
+    public function paginated(Request $request, $perPage = 10){
+        $query = Episode::query();
+        $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+        $episodes = $queryWithRelationships->paginate($perPage);
 
         return response()->json([
             "message" => "items retrieved successfully",
@@ -25,17 +31,56 @@ class EpisodeController extends Controller
         ]);
     }
 
-    public function params($request, $paginated = false, $perPage = 10){
-        $episodes = Episode::query();
+    public function show(Request $request, $id){
+        $validator = Validator::make(['id' => $id], [
+            'id' => 'required|integer'
+        ]);
 
+        if ($validator->fails()) {
+            return response()->json([
+                "message" => "validation error",
+                "error" => "id is required and must be an integer"
+            ], 404);
+        }
+
+        $query = Episode::query();
+        $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+
+        $episode = $queryWithRelationships->find($id);
+
+        if(!$episode) return response()->json([
+            "message" => "item not found",
+            "error" => "id is not associated with any episode"
+        ], 404);
+
+        return response()->json([
+            "message" => "item retrieved successfully",
+            "item" => $episode
+        ]);
+    }
+
+    public function showBySlug(Request $request, $slug){
+        $query = Episode::query();
+        $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+
+        $episode = $queryWithRelationships->where('slug', $slug)->first();
+
+        if(!$episode) return response()->json([
+            "message" => "item not found",
+            "error" => "slug is not associated with any episode"
+        ], 404);
+
+        return response()->json([
+            "message" => "item retrieved successfully",
+            "item" => $episode
+        ]);
+    }
+
+    private function injectRelationshipToQuery(Request $request, EloquentBuilder $query){
         if($request->has('includeCharacters')){
-            $episodes->with('characters');
+            $query->with('characters');
         }
 
-        if($paginated){
-            return $episodes->paginate($perPage);
-        }
-
-        return $episodes->get();
+        return $query;
     }
 }
