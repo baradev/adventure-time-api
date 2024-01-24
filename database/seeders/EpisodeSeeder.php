@@ -5,6 +5,7 @@ namespace Database\Seeders;
 use App\Models\Episode;
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\File;
 
 class EpisodeSeeder extends Seeder
@@ -27,6 +28,16 @@ class EpisodeSeeder extends Seeder
                 "release" => $value->release,
                 "episode" => $value->episode
             ]);
+
+            // characters_slug and episodes_slug are the foreign keys, for table character_in_episodes
+            $character_slugs = $value->character_slugs;
+
+            foreach ($character_slugs as $character_slug) {
+                DB::table('characters_in_episodes')->insert([
+                    "character_slug" => $character_slug,
+                    "episode_slug" => $value->slug
+                ]);
+            }
         }
     }
 }

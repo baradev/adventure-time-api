@@ -20,8 +20,13 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 });
 
 Route::get('/kingdoms', [KingdomController::class, 'index']);
+Route::get('/kingdoms/paginated', [KingdomController::class, 'paginated']);
+
 Route::get('/episodes', [EpisodeController::class, 'index']);
+Route::get('/episodes/paginated', [EpisodeController::class, 'paginated']);
+
 Route::get('/characters', [CharacterController::class, 'index']);
+Route::get('/characters/paginated', [CharacterController::class, 'paginated']);
 
 Route::fallback(function (){
     return response()->json([

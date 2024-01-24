@@ -11,16 +11,24 @@ class Character extends Model
 
     protected $guarded = [];
 
+    protected $hidden = ['pivot', 'created_at', 'updated_at'];
     
     protected $casts = [
         'quotes' => "array"
     ];
     
     public function episodes(){
-        return $this->belongsToMany(Episode::class);
+    // $table = null,
+    // $foreignPivotKey = null,
+    // $relatedPivotKey = null,
+    // $parentKey = null,
+    // $relatedKey = null,
+    // $relation = nul
+        return $this->belongsToMany(Episode::class, 'characters_in_episodes', 'character_slug', 'episode_slug', 'slug', 'slug');
     }
 
     public function kingdom(){
-        return $this->belongsTo(Kingdom::class);
+        // relation by slug
+        return $this->belongsTo(Kingdom::class, 'kingdom_slug', 'slug');
     }
 }

@@ -11,8 +11,10 @@ class Kingdom extends Model
 
     protected $guarded = [];
 
+    protected $hidden = ['pivot', 'created_at', 'updated_at'];
+
 
     public function characters(){
-        return $this->hasMany(Character::class);
+        return $this->hasMany(Character::class, 'kingdom_slug', 'slug');
     }
 }

@@ -1,39 +1,42 @@
 [
     {
-      "slug": "episode-1",
-      "name": "Slumber Party Panic",
-      "description": "Finn and Jake must save Princess Bubblegum from an impending zombie attack.",
-      "image": "url_to_episode_1_image",
-      "thumbnail": "url_to_episode_1_thumbnail",
-      "release": "2010-04-05",
-      "episode": "S01E01"
+        "slug": "episode-1",
+        "name": "Slumber Party Panic",
+        "description": "Finn and Jake must save Princess Bubblegum from an impending zombie attack.",
+        "image": "url_to_episode_1_image",
+        "thumbnail": "url_to_episode_1_thumbnail",
+        "release": "2010-04-05",
+        "episode": "S01E01",
+        "character_slugs": ["finn", "jake"]
     },
     {
-      "slug": "episode-2",
-      "name": "Trouble in Lumpy Space",
-      "description": "Finn and Jake venture into Lumpy Space to cure the Lumps from Jake's bite.",
-      "image": "url_to_episode_2_image",
-      "thumbnail": "url_to_episode_2_thumbnail",
-      "release": "2010-04-12",
-      "episode": "S01E02"
+        "slug": "episode-2",
+        "name": "Trouble in Lumpy Space",
+        "description": "Finn and Jake venture into Lumpy Space to cure the Lumps from Jake's bite.",
+        "image": "url_to_episode_2_image",
+        "thumbnail": "url_to_episode_2_thumbnail",
+        "release": "2010-04-12",
+        "episode": "S01E02",
+        "character_slugs": ["finn", "jake"]
     },
     {
-      "slug": "episode-3",
-      "name": "Prisoners of Love",
-      "description": "Finn and Jake go on a mission to rescue kidnapped princesses from the Ice King.",
-      "image": "url_to_episode_3_image",
-      "thumbnail": "url_to_episode_3_thumbnail",
-      "release": "2010-04-19",
-      "episode": "S01E03"
+        "slug": "episode-3",
+        "name": "Prisoners of Love",
+        "description": "Finn and Jake go on a mission to rescue kidnapped princesses from the Ice King.",
+        "image": "url_to_episode_3_image",
+        "thumbnail": "url_to_episode_3_thumbnail",
+        "release": "2010-04-19",
+        "episode": "S01E03",
+        "character_slugs": ["finn"]
     },
     {
-      "slug": "episode-4",
-      "name": "Tree Trunks",
-      "description": "Finn and Jake go on a quest with Tree Trunks to find the legendary Crystal Gem Apple.",
-      "image": "url_to_episode_4_image",
-      "thumbnail": "url_to_episode_4_thumbnail",
-      "release": "2010-04-26",
-      "episode": "S01E04"
+        "slug": "episode-4",
+        "name": "Tree Trunks",
+        "description": "Finn and Jake go on a quest with Tree Trunks to find the legendary Crystal Gem Apple.",
+        "image": "url_to_episode_4_image",
+        "thumbnail": "url_to_episode_4_thumbnail",
+        "release": "2010-04-26",
+        "episode": "S01E04",
+        "character_slugs": ["jake"]
     }
-  ]
-  
+]
