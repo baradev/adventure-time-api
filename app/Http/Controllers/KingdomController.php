@@ -23,9 +23,28 @@ class KingdomController extends Controller
 
     public function paginated(Request $request, $perPage = 10)
     {
+
+        $validator = Validator::make($request->all(), [
+            'perPage' => 'integer'
+        ]);
+
+        if ($validator->fails()) {
+            return response()->json([
+                "message" => "validation error",
+                "error" => "perPage must be an integer"
+            ], 404);
+        }
+
         $query = Kingdom::query();
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
-        $kingdoms = $queryWithRelationships->paginate($perPage || 10);
+        
+        if($request->has('perPage')) {
+            $perPage = $request->query('perPage');
+            $kingdoms = $queryWithRelationships->paginate($perPage);
+        } else {
+            $kingdoms = $queryWithRelationships->paginate(10);
+        }
+
         return response()->json([
             "message" => "items paginated retrieved successfully",
             'pagination' => $kingdoms
@@ -34,7 +53,6 @@ class KingdomController extends Controller
 
     public function show(Request $request, $id)
     {
-
         $validator = Validator::make(['id' => $id], [
             'id' => 'required|integer'
         ]);

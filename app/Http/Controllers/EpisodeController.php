@@ -20,10 +20,29 @@ class EpisodeController extends Controller
         ]);
     }
 
-    public function paginated(Request $request, $perPage = 10){
+    public function paginated(Request $request){
+
+        $validator = Validator::make($request->all(), [
+            'perPage' => 'integer'
+        ]);
+
+        if ($validator->fails()) {
+            return response()->json([
+                "message" => "validation error",
+                "error" => "perPage must be an integer"
+            ], 404);
+        }
+
         $query = Episode::query();
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
-        $episodes = $queryWithRelationships->paginate($perPage);
+        
+
+        if($request->has('perPage')) {
+            $perPage = $request->query('perPage');
+            $episodes = $queryWithRelationships->paginate($perPage);
+        } else {
+            $episodes = $queryWithRelationships->paginate(10);
+        }
 
         return response()->json([
             "message" => "items retrieved successfully",
