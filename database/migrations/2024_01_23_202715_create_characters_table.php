@@ -16,11 +16,11 @@ return new class extends Migration
             $table->string('slug')->unique();
             $table->string('name');
             $table->string('full_name');
-            $table->string('description');
+            $table->text('description');
             $table->string('specie');
-            $table->string('quotes')->nullable();
-            $table->string('image');
-            $table->string('thumbnail');
+            $table->text('quotes')->nullable();
+            $table->text('image');
+            $table->text('thumbnail');
             $table->string('kingdom_slug');
             $table->foreign('kingdom_slug')->references('slug')->on('kingdoms');
             $table->timestamps();
