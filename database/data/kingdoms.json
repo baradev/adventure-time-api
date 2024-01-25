@@ -2,8 +2,36 @@
     {
         "slug": "candy-kingdom",
         "name": "Candy Kingdom",
-        "description": "bla bla bla",
-        "thumbnail": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ae5cff37392573.573e7c8672e6e.png",
-        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ae5cff37392573.573e7c8672e6e.png"
+        "description": "The Candy Kingdom is a sweet and colorful realm ruled by Princess Bubblegum. Known for its sugary landscapes and candy citizens, it is a hub of scientific innovation and enchanting adventures. The kingdom thrives on a blend of science and magic, creating a whimsical and delightful atmosphere.",
+        "thumbnail": "/images/kingdoms/candy-kingdom-thumbnail.webp",
+        "image": "/images/kingdoms/candy-kingdom.webp"
+    },
+    {
+        "slug": "fire-kingdom",
+        "name": "Fire Kingdom",
+        "description": "The Fire Kingdom is a blazing domain ruled by Flame Princess. It is a realm of intense heat and fiery landscapes, inhabited by flame-based creatures and subjects. The Fire Kingdom is known for its passionate and sometimes volatile nature, reflecting the element of fire that defines its existence.",
+        "thumbnail": "/images/kingdoms/fire-kingdom-thumbnail.webp",
+        "image": "/images/kingdoms/fire-kingdom.webp"
+    },
+    {
+        "slug": "ice-kingdom",
+        "name": "Ice Kingdom",
+        "description": "The Ice Kingdom is a frigid and frozen domain ruled by the Ice King and formerly by the Snow Golem. It is a land of ice and snow, inhabited by penguins and other cold-weather creatures. The Ice Kingdom is known for its harsh weather and climate, as well as its unique inhabitants.",
+        "thumbnail": "/images/kingdoms/ice-kingdom-thumbnail.webp",
+        "image": "/images/kingdoms/ice-kingdom.webp"
+    },
+    {
+        "slug": "lumpy-space",
+        "name": "Lumpy Space",
+        "description": "Lumpy Space is a realm inhabited by Lumpy Space People. It is a strange and distant land, filled with bizarre creatures and unique inhabitants. Lumpy Space is known for its unusual customs and culture, as well as its strange and mysterious nature.",
+        "thumbnail": "/images/kingdoms/lumpy-space-thumbnail.webp",
+        "image": "/images/kingdoms/lumpy-space.webp"
+    },
+    {
+        "slug": "nightosphere",
+        "name": "Nightosphere",
+        "description": "The Nightosphere is a dark and mysterious realm inhabited by demons and other supernatural creatures. It is the home of Hunson Abadeer and Marceline the Vampire Queen, as well as many other strange beings. The Nightosphere is known for its strange and mysterious nature, as well as its unique inhabitants.",
+        "thumbnail": "/images/kingdoms/nightosphere-thumbnail.webp",
+        "image": "/images/kingdoms/nightosphere.webp"
     }
 ]

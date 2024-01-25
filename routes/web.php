@@ -43,6 +43,10 @@ Route::get('/info', function () {
                 'show' => route('characters.show', ['id' => 1]),
                 'showBySlug' => route('characters.showBySlug', ['slug' => 'character-slug']),
             ],
+        ],
+        "info_taken_from" =>[
+            "https://adventuretime.fandom.com/wiki/Adventure_Time_Wiki",
+            "https://freepngimg.com/cartoon/adventure-time"
         ]
     ]);
 })->name('info');
