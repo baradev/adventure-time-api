@@ -17,6 +17,7 @@ class CharacterSeeder extends Seeder
     {
         $file = File::get('database/data/characters.json');
         $characters = json_decode($file);
+        $appUrl = env('APP_URL');
 
         foreach ($characters as $character => $value) {
             Character::create([
@@ -26,8 +27,8 @@ class CharacterSeeder extends Seeder
                     "full_name" => $value->full_name,
                     "specie" => $value->specie,
                     "quotes" => $value->quotes,
-                    "thumbnail" => $value->thumbnail,
-                    "image" => $value->image,
+                    "thumbnail" => $appUrl.$value->thumbnail,
+                    "image" => $appUrl.$value->image,
                     "kingdom_slug" => $value->kingdom_slug,
             ]);
         }

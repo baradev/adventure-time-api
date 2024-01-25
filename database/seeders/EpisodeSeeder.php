@@ -17,14 +17,15 @@ class EpisodeSeeder extends Seeder
     {
         $file = File::get('database/data/episodes.json');
         $episodes = json_decode($file);
+        $appUrl = env('APP_URL');
 
         foreach ($episodes as $episode => $value) {
             Episode::create([
                 "slug" => $value->slug,
                 "name" => $value->name,
                 "description" => $value->description,
-                "image" => $value->image,
-                "thumbnail" => $value->thumbnail,
+                "image" => $appUrl.$value->image,
+                "thumbnail" => $appUrl.$value->thumbnail,
                 "release" => $value->release,
                 "episode" => $value->episode
             ]);

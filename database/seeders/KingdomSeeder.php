@@ -17,14 +17,15 @@ class KingdomSeeder extends Seeder
 
         $file = File::get('database/data/kingdoms.json');
         $kingdoms = json_decode($file, true);
+        $appUrl = env('APP_URL');
 
         foreach ($kingdoms as $kingdom => $value) {
             Kingdom::create([
                 'slug' => $value['slug'],
                 'name' => $value['name'],
                 'description' => $value['description'],
-                'thumbnail' => $value['thumbnail'],
-                'image' => $value['image'],
+                'thumbnail' => $appUrl.$value['thumbnail'],
+                'image' => $appUrl.$value['image'],
             ]);
         }
     }
