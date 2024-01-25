@@ -11,8 +11,8 @@
             "You don't need a mirror to know you look good. You're beautiful on the inside.",
             "'m not a hero because I want your approval. I do it because I want to!"
         ],
-        "image": "images/characters/finn.webp",
-        "thumbnail": "images/characters/finn-thumbnail.webp",
+        "image": "/assets/images/characters/finn.webp",
+        "thumbnail": "/assets/images/characters/finn-thumbnail.webp",
         "kingdom_slug": "candy-kingdom"
     },
     {
@@ -27,8 +27,8 @@
             "I'm not lazy, I'm on energy saving mode.",
             "I'm not weird. I'm just ahead of the curve."
         ],
-        "image": "images/characters/jake.webp",
-        "thumbnail": "images/characters/jake-thumbnail.webp",
+        "image": "/assets/images/characters/jake.webp",
+        "thumbnail": "/assets/images/characters/jake-thumbnail.webp",
         "kingdom_slug": "candy-kingdom"
     },
     {
@@ -43,8 +43,8 @@
             "I'm not good at feelings, deal with it.",
             "I'm not the Bubblegum villain. I'm the guy who's seen the end of the world."
         ],
-        "image": "images/characters/marceline.webp",
-        "thumbnail": "images/characters/marceline-thumbnail.webp",
+        "image": "/assets/images/characters/marceline.webp",
+        "thumbnail": "/assets/images/characters/marceline-thumbnail.webp",
         "kingdom_slug": "nightosphere"
     },
     {
@@ -59,8 +59,8 @@
             "Intelligence is my strong suit; my looks are just a bonus.",
             "I'm not a hero. I'm a high-functioning sociopath."
         ],
-        "image": "assets/images/characters/princess-bubblegum.webp",
-        "thumbnail": "images/characters/princess-bubblegum-thumbnail.webp",
+        "image": "/assets/images/characters/princess-bubblegum.webp",
+        "thumbnail": "/assets/images/characters/princess-bubblegum-thumbnail.webp",
         "kingdom_slug": "candy-kingdom"
     },
     {
@@ -75,8 +75,8 @@
             "I'm not a psychopath, I'm a high-functioning sociopath. Do your research.",
             "I'm not a psychopath, I'm a high-functioning sociopath. Do your research."
         ],
-        "image": "images/characters/ice-king.webp",
-        "thumbnail": "images/characters/ice-king-thumbnail.webp",
+        "image": "/assets/images/characters/ice-king.webp",
+        "thumbnail": "/assets/images/characters/ice-king-thumbnail.webp",
         "kingdom_slug": "ice-kingdom"
     },
     {
@@ -89,8 +89,8 @@
             "I'm not crazy. I'm just a little unwell.",
             "I'm not a psychopath, I'm a high-functioning sociopath. Do your research."
         ],
-        "image": "images/characters/lumpy-space-princess.webp",
-        "thumbnail": "images/characters/lumpy-space-princess-thumbnail.webp",
+        "image": "/assets/images/characters/lumpy-space-princess.webp",
+        "thumbnail": "/assets/images/characters/lumpy-space-princess-thumbnail.webp",
         "kingdom_slug": "lumpy-space"
     }
 ]
