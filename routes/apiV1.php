@@ -24,7 +24,7 @@ Route::get('/episodes/{id}', [EpisodeController::class, 'show'])->name('episodes
 Route::get('/characters', [CharacterController::class, 'index'])->name('characters.index');
 Route::get('/characters/paginated', [CharacterController::class, 'paginated'])->name('characters.paginated');
 Route::get('/characters/slug/{slug}', [CharacterController::class, 'showBySlug'])->name('characters.showBySlug');
-Route::get('/characters/{id}', [CharacterController::class, 'show'])->name('characters.show');
+Route::get('/characters/{ids}', [CharacterController::class, 'show'])->name('characters.show');
 
 Route::fallback(function (){
     return response()->json([

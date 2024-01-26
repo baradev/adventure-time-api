@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\ShowCharacterRequest;
 use App\Models\Character;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
@@ -36,8 +37,8 @@ class CharacterController extends Controller
 
         $query = Character::query();
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
-        
-        if($request->has('perPage')) {
+
+        if ($request->has('perPage')) {
             $perPage = $request->query('perPage');
             $characters = $queryWithRelationships->paginate($perPage);
         } else {
@@ -49,32 +50,78 @@ class CharacterController extends Controller
         ]);
     }
 
-    public function show(Request $request, $id)
+    private function validateArrayIds(Request $request, $ids)
     {
-        $validator = Validator::make(['id' => $id], [
-            'id' => 'required|integer'
+        $validator = Validator::make($request->all(), [
+            $ids => [
+                'required',
+                'regex:/^\d+(,\d+)*$/'
+
+            ]
         ]);
 
         if ($validator->fails()) {
             return response()->json([
                 "message" => "validation error",
-                "error" => "id is required and must be an integer"
+                "error" => "ids must be one or an array of integers, example: 1 or 1,2,3"
+            ], 404);
+        }
+    }
+
+    private function isIdsValid($ids)
+    {
+        return preg_match('/^\d+(,\d+)*(,)?$/', $ids);
+    }
+
+    public function getMultipleCharactersByIds($ids)
+    {
+    }
+
+    public function getCharacterById()
+    {
+    }
+
+    public function show(Request $request, $ids)
+    {
+        if ($this->isIdsValid($ids) === 0) {
+            return response()->json([
+                "message" => "validation error",
+                "error" => "ids must be one or an array of integers, example: 1 or 1,2,3"
             ], 404);
         }
 
         $query = Character::query();
+
+        $idArray = explode(',', $ids);
+        $idsCount = count($idArray);
+
+        if ($idsCount == 1) {
+            $query->find($idArray[0]);
+
+            $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+
+            $character = $queryWithRelationships->get();
+
+            if (!$character) return response()->json([
+                "message" => "item not found",
+                "error" => "id is not associated with any character"
+            ], 404);
+
+            return response()->json([
+                "message" => "item retrieved successfully",
+                "item" => $character
+            ]);
+        }
+
+        $query->whereIn('id', $idArray);
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+        $characters = $queryWithRelationships->get();
 
-        $character = $queryWithRelationships->find($id);
 
-        if (!$character) return response()->json([
-            "message" => "item not found",
-            "error" => "id is not associated with any character"
-        ], 404);
 
         return response()->json([
-            "message" => "item retrieved successfully",
-            "item" => $character
+            "message" => "items retrieved successfully",
+            "items" => $characters
         ]);
     }
 
