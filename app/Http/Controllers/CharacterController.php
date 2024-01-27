@@ -50,24 +50,6 @@ class CharacterController extends Controller
         ]);
     }
 
-    private function validateArrayIds(Request $request, $ids)
-    {
-        $validator = Validator::make($request->all(), [
-            $ids => [
-                'required',
-                'regex:/^\d+(,\d+)*$/'
-
-            ]
-        ]);
-
-        if ($validator->fails()) {
-            return response()->json([
-                "message" => "validation error",
-                "error" => "ids must be one or an array of integers, example: 1 or 1,2,3"
-            ], 404);
-        }
-    }
-
     private function isIdsValid($ids)
     {
         return preg_match('/^\d+(,\d+)*(,)?$/', $ids);
@@ -100,7 +82,7 @@ class CharacterController extends Controller
 
             $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
 
-            $character = $queryWithRelationships->get();
+            $character = $queryWithRelationships->find($idArray[0]);
 
             if (!$character) return response()->json([
                 "message" => "item not found",

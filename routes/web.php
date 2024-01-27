@@ -40,7 +40,7 @@ Route::get('/info', function () {
             'characters' => [
                 'list' => route('characters.index'),
                 'paginated' => route('characters.paginated'),
-                'show' => route('characters.show', ['id' => 1]),
+                'show' => route('characters.show', ['ids' => 1]),
                 'showBySlug' => route('characters.showBySlug', ['slug' => 'character-slug']),
             ],
         ],
