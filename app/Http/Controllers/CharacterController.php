@@ -14,7 +14,8 @@ class CharacterController extends Controller
     {
         $query = Character::query();
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
-        $characters = $queryWithRelationships->get();
+        $queryWithFilters = $this->injectFilterParms($request, $queryWithRelationships);
+        $characters = $queryWithFilters->get();
 
         return response()->json([
             "message" => "items retrieved successfully",
@@ -37,12 +38,13 @@ class CharacterController extends Controller
 
         $query = Character::query();
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+        $queryWithFilters = $this->injectFilterParms($request, $queryWithRelationships);
 
         if ($request->has('perPage')) {
             $perPage = $request->query('perPage');
-            $characters = $queryWithRelationships->paginate($perPage);
+            $characters = $queryWithFilters->paginate($perPage);
         } else {
-            $characters = $queryWithRelationships->paginate(10);
+            $characters = $queryWithFilters->paginate(10);
         }
         return response()->json([
             "message" => "items retrieved successfully",
@@ -136,6 +138,22 @@ class CharacterController extends Controller
         // if request has includeKingdom query param
         if ($request->has('includeEpisodes')) {
             $query->with('episodes');
+        }
+
+        return $query;
+    }
+
+    private function injectFilterParms(Request $request, EloquentBuilder $query){
+
+        if ($request->has('name')) {
+            $query->where('name', 'LIKE', '%' . $request->query('name') . '%');
+        }        
+        
+        if ($request->has('full_name')){
+            $query->where('full_name', 'LIKE', '%' . $request->query('full_name') . '%');
+        }
+        if ($request->has('specie')){
+            $query->where('specie', 'LIKE', '%' . $request->query('specie') . '%');
         }
 
         return $query;
