@@ -50,31 +50,51 @@ class EpisodeController extends Controller
         ]);
     }
 
-    public function show(Request $request, $id){
-        $validator = Validator::make(['id' => $id], [
-            'id' => 'required|integer'
-        ]);
+    private function idIdsValid($ids){
+       return preg_match('/^\d+(,\d+)*(,)?$/', $ids);
+    }
 
-        if ($validator->fails()) {
+    public function show(Request $request, $ids){
+        
+        $isIdsValid = $this->idIdsValid($ids);
+
+        if (!$isIdsValid) {
             return response()->json([
                 "message" => "validation error",
-                "error" => "id is required and must be an integer"
+                "error" => "ids must be one or an array of integers, example: 1 or 1,2,3"
             ], 404);
         }
 
+        
         $query = Episode::query();
+        $idsArray = explode(',', $ids);
+        $idsCount = count($idsArray);
+
+        if($idsCount === 1){
+
+            $id = $ids[0];
+            $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+            $episode = $queryWithRelationships->find($id);
+            
+            if(!$episode) return response()->json([
+                "message" => "item not found",
+                "error" => "id is not associated with any episode"
+            ], 404);
+            
+
+            return response()->json([
+                "message" => "ite retrieved successfully",
+                "item" => $episode
+            ]);
+        }
+
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+        $episodes = $queryWithRelationships->findMany($idsArray);
 
-        $episode = $queryWithRelationships->find($id);
-
-        if(!$episode) return response()->json([
-            "message" => "item not found",
-            "error" => "id is not associated with any episode"
-        ], 404);
 
         return response()->json([
             "message" => "item retrieved successfully",
-            "item" => $episode
+            "items" => $episodes
         ]);
     }
 

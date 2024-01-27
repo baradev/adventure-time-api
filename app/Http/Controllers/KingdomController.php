@@ -51,32 +51,50 @@ class KingdomController extends Controller
         ]);
     }
 
-    public function show(Request $request, $id)
-    {
-        $validator = Validator::make(['id' => $id], [
-            'id' => 'required|integer'
-        ]);
+    private function idIdsValid($ids){
+       return preg_match('/^\d+(,\d+)*(,)?$/', $ids);
+    }
 
-        if ($validator->fails()) {
+    public function show(Request $request, $ids)
+    {
+        $isIdsValid = $this->idIdsValid($ids);
+
+        if (!$isIdsValid) {
             return response()->json([
                 "message" => "validation error",
-                "error" => "id is required and must be an integer"
+                "error" => "ids must be one or an array of integers, example: 1 or 1,2,3"
             ], 404);
         }
 
         $query = Kingdom::query();
+        $idsArray = explode(',', $ids);
+        $count = count($idsArray);
+
+        if($count === 1) {
+            $id = $idsArray[0];
+
+            $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
+            $kingdom = $queryWithRelationships->find($id);
+
+            if(!$kingdom) return response()->json([
+                "message" => "item not found",
+                "error" => "id is not associated with any kingdom"
+            ], 404);
+
+            return response()->json([
+                "message" => "item retrieved successfully",
+                'item' => $kingdom
+            ]);
+
+        } 
+        
+        
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
-
-        $kingdom = $queryWithRelationships->find($id);
-
-        if(!$kingdom) return response()->json([
-            "message" => "item not found",
-            "error" => "id is not associated with any kingdom"
-        ], 404);
-
+        $kingdoms = $queryWithRelationships->findMany($idsArray);
+        
         return response()->json([
             "message" => "item retrieved successfully",
-            'item' => $kingdom
+            'item' => $kingdoms
         ]);
 
     }

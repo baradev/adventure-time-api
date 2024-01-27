@@ -57,13 +57,6 @@ class CharacterController extends Controller
         return preg_match('/^\d+(,\d+)*(,)?$/', $ids);
     }
 
-    public function getMultipleCharactersByIds($ids)
-    {
-    }
-
-    public function getCharacterById()
-    {
-    }
 
     public function show(Request $request, $ids)
     {
@@ -97,11 +90,8 @@ class CharacterController extends Controller
             ]);
         }
 
-        $query->whereIn('id', $idArray);
         $queryWithRelationships = $this->injectRelationshipToQuery($request, $query);
-        $characters = $queryWithRelationships->get();
-
-
+        $characters = $queryWithRelationships->findMany($idArray);
 
         return response()->json([
             "message" => "items retrieved successfully",

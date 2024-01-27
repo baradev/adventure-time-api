@@ -28,13 +28,13 @@ Route::get('/info', function () {
             'kingdoms' => [
                 'list' => route('kingdoms.index'),
                 'paginated' => route('kingdoms.paginated'),
-                'show' => route('kingdoms.show', ['id' => 1]),
+                'show' => route('kingdoms.show', ['ids' => 1]),
                 'showBySlug' => route('kingdoms.showBySlug', ['slug' => 'kingdom-slug']),
             ],
             'episodes' => [
                 'list' => route('episodes.index'),
                 'paginated' => route('episodes.paginated'),
-                'show' => route('episodes.show', ['id' => 1]),
+                'show' => route('episodes.show', ['ids' => 1]),
                 'showBySlug' => route('episodes.showBySlug', ['slug' => 'episode-slug']),
             ],
             'characters' => [
