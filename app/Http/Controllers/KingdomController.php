@@ -94,7 +94,7 @@ class KingdomController extends Controller
         
         return response()->json([
             "message" => "item retrieved successfully",
-            'item' => $kingdoms
+            'items' => $kingdoms
         ]);
 
     }
