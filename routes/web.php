@@ -55,7 +55,6 @@ Route::fallback(function (){
     return response()->json([
         'message' => 'Endpoint not found',
         'documentation' => env('APP_DOCUMENTATION_URL'),
-        'base_url' => env('APP_URL'),
         'url_requested' => url()->current(),
     ]);
 });

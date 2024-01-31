@@ -26,6 +26,12 @@ Route::get('/characters/paginated', [CharacterController::class, 'paginated'])->
 Route::get('/characters/slug/{slug}', [CharacterController::class, 'showBySlug'])->name('characters.showBySlug');
 Route::get('/characters/{ids}', [CharacterController::class, 'show'])->name('characters.show');
 
+Route::get('/status', function () {
+    return response()->json([
+        'status' => 'ok'
+    ]);
+})->name('status');
+
 Route::fallback(function (){
     return response()->json([
         'message' => 'Endpoint not found'
