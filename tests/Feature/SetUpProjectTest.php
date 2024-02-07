@@ -1,11 +1,7 @@
 <?php
 
 namespace Tests\Feature;
- 
-use Database\Seeders\OrderStatusSeeder;
-use Database\Seeders\TransactionStatusSeeder;
 use Illuminate\Foundation\Testing\RefreshDatabase;
-use Tests\CreatesApplication;
 use Tests\TestCase;
 
 class SetUpProjectTest extends TestCase
@@ -14,9 +10,21 @@ class SetUpProjectTest extends TestCase
 
     protected $seed = true;
 
-    public function testSetUpProject()
+    public function test_has_tables()
     {
+        $this->assertDatabaseHas('characters', [
+            'slug'=>'finn'
+        ]);
+
         
+        $this->assertDatabaseHas('kingdoms', [
+            'slug'=>'candy-kingdom'
+        ]);
+
+        
+        $this->assertDatabaseHas('episodes', [
+            'slug'=>'slumber-party-panic'
+        ]);
     }
 
 

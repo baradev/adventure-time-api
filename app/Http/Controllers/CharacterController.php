@@ -19,7 +19,7 @@ class CharacterController extends Controller
 
         return response()->json([
             "message" => "items retrieved successfully",
-            "items" => $characters
+            "items" => $characters,
         ]);
     }
 
