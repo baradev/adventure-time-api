@@ -2,10 +2,18 @@
 
 namespace Tests\Feature;
 
+use Illuminate\Foundation\Testing\DatabaseMigrations;
+use Illuminate\Foundation\Testing\RefreshDatabase;
 use Tests\TestCase;
 
 class KingdomApiTest extends TestCase
 {
+
+    // use DatabaseMigrations;
+
+    // protected $seed = true;
+
+    
     private $characterJsonStructure = [
         "id",
         "slug",

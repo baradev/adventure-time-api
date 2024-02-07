@@ -71,8 +71,16 @@ class EpisodeSeeder extends Seeder
         if (strlen($item->slug) < 1 || strlen($item->slug) > 100) $this->throwError("Invalid slug, it must be between 1 and 100 characters", $json);
         if (strlen($item->name) < 1 || strlen($item->name) > 100) $this->throwError("Invalid name, it must be between 1 and 100 characters", $json);
         if (strlen($item->description) < 1 || strlen($item->description) > 800) $this->throwError("Invalid description, it must be between 1 and 800 characters", $json);
+        
         if (strlen($item->image) < 1 || strlen($item->image) > 100) $this->throwError("Invalid image, it must be between 1 and 100 characters", $json);
+        // image path must start with /assets/images/episodes/
+        if (strpos($item->image, '/assets/images/episodes/') !== 0) $this->throwError("Invalid image path, it must start with '/assets/images/episodes/'", $json);
+        
         if (strlen($item->thumbnail) < 1 || strlen($item->thumbnail) > 100) $this->throwError("Invalid thumbnail, it must be between 1 and 100 characters", $json);
+        // thumbnail path must start with /assets/images/episodes/
+        if (strpos($item->thumbnail, '/assets/images/episodes/') !== 0) $this->throwError("Invalid thumbnail path, it must start with '/assets/images/episodes/'", $json);
+
+        
         if (strlen($item->release) < 1 || strlen($item->release) > 100) $this->throwError("Invalid release, it must be between 1 and 100 characters", $json);
         if (strlen($item->episode) < 1 || strlen($item->episode) > 100) $this->throwError("Invalid episode, it must be between 1 and 100 characters", $json);
         // if character_slugs is an array, validate each character_slug.

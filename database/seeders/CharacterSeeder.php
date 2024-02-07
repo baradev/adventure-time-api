@@ -79,7 +79,13 @@ class CharacterSeeder extends Seeder
             if (strlen($quote) < 1 || strlen($quote) > 100) $this->throwError("Invalid quote, it must be between 1 and 100 characters", $json);
         }
         if (strlen($item->image) < 1 || strlen($item->image) > 100) $this->throwError("Invalid image, it must be between 1 and 100 characters", $json);
+        // image path must start with /assets/images/characters/
+        if (strpos($item->image, '/assets/images/characters/') !== 0) $this->throwError("Invalid image path, it must start with '/assets/images/characters/'", $json);
+
         if (strlen($item->thumbnail) < 1 || strlen($item->thumbnail) > 100) $this->throwError("Invalid thumbnail, it must be between 1 and 100 characters", $json);
+        // thumbnail path must start with /assets/images/characters/
+        if (strpos($item->thumbnail, '/assets/images/characters/') !== 0) $this->throwError("Invalid thumbnail path, it must start with '/assets/images/characters/'", $json);
+
         if (!preg_match('/^[a-z0-9]+(?:-[a-z0-9]+)*$/i', $item->kingdom_slug)) $this->throwError("Invalid kingdom slug, it must be a string with this pattern: /^[a-z0-9]+(?:-[a-z0-9]+)*$/i", $json);
 
         return true;

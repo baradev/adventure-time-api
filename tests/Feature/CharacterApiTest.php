@@ -2,13 +2,15 @@
 
 namespace Tests\Feature;
 
+use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Tests\TestCase;
 
 class CharacterApiTest extends TestCase
 {
-    /**
-     * A basic feature test example.
-     */
+    // use DatabaseMigrations;
+
+    // protected $seed = true;
+    
     private $characterJsonStructure = [
         "id",
         "slug",
