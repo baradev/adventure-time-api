@@ -38,5 +38,2757 @@
         "release": "2010-04-26",
         "episode": "S01E04",
         "character_slugs": ["jake"]
+    },
+    {
+        "slug": "the-enchiridion",
+        "name": "The Enchiridion!",
+        "description": "Finn and Jake go on a quest for The Enchiridion, the hero's handbook.",
+        "image": "/assets/images/episodes/the-enchiridion.webp",
+        "thumbnail": "/assets/images/episodes/the-enchiridion-thumbnail.webp",
+        "release": "2010-05-03",
+        "episode": "S01E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-jiggler",
+        "name": "The Jiggler",
+        "description": "Finn and Jake find a Jiggler and bring it back to its parents.",
+        "image": "/assets/images/episodes/the-jiggler.webp",
+        "thumbnail": "/assets/images/episodes/the-jiggler-thumbnail.webp",
+        "release": "2010-05-10",
+        "episode": "S01E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "ricardio-the-heart-guy",
+        "name": "Ricardio the Heart Guy",
+        "description": "Finn and Jake discover that the Ice King is the one who is kidnapping princesses.",
+        "image": "/assets/images/episodes/ricardio-the-heart-guy.webp",
+        "thumbnail": "/assets/images/episodes/ricardio-the-heart-guy-thumbnail.webp",
+        "release": "2010-05-17",
+        "episode": "S01E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "business-time",
+        "name": "Business Time",
+        "description": "Finn and Jake try to help a businessman named Bufo.",
+        "image": "/assets/images/episodes/business-time.webp",
+        "thumbnail": "/assets/images/episodes/business-time-thumbnail.webp",
+        "release": "2010-05-24",
+        "episode": "S01E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "my-two-favorite-people",
+        "name": "My Two Favorite People",
+        "description": "Jake tries to get Lady Rainicorn and Finn to become friends.",
+        "image": "/assets/images/episodes/my-two-favorite-people.webp",
+        "thumbnail": "/assets/images/episodes/my-two-favorite-people-thumbnail.webp",
+        "release": "2010-09-27",
+        "episode": "S01E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "memories-of-boom-boom-mountain",
+        "name": "Memories of Boom Boom Mountain",
+        "description": "Finn helps a tribe of homeless people.",
+        "image": "/assets/images/episodes/memories-of-boom-boom-mountain.webp",
+        "thumbnail": "/assets/images/episodes/memories-of-boom-boom-mountain-thumbnail.webp",
+        "release": "2010-10-04",
+        "episode": "S01E10",
+        "character_slugs": ["finn"]
+    },
+    {
+        "slug": "wizard",
+        "name": "Wizard",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/wizard.webp",
+        "thumbnail": "/assets/images/episodes/wizard-thumbnail.webp",
+        "release": "2010-10-11",
+        "episode": "S01E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "evicted",
+        "name": "Evicted!",
+        "description": "Finn and Jake are evicted from their treehouse and set out to find a new home.",
+        "image": "/assets/images/episodes/evicted.webp",
+        "thumbnail": "/assets/images/episodes/evicted-thumbnail.webp",
+        "release": "2010-10-18",
+        "episode": "S01E12",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "city-of-thieves",
+        "name": "City of Thieves",
+        "description": "Finn and Jake are caught in a web of thievery and are at the mercy of the city's criminals.",
+        "image": "/assets/images/episodes/city-of-thieves.webp",
+        "thumbnail": "/assets/images/episodes/city-of-thieves-thumbnail.webp",
+        "release": "2010-10-25",
+        "episode": "S01E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-witchs-garden",
+        "name": "The Witch's Garden",
+        "description": "Finn and Jake are sent to the Witch's Garden by a homeless",
+        "image": "/assets/images/episodes/the-witchs-garden.webp",
+        "thumbnail": "/assets/images/episodes/the-witchs-garden-thumbnail.webp",
+        "release": "2010-11-01",
+        "episode": "S01E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "what-is-life",
+        "name": "What is Life?",
+        "description": "Finn builds a Never-Ending Pie-Throwing Robot for Jake, but the robot starts to become evil.",
+        "image": "/assets/images/episodes/what-is-life.webp",
+        "thumbnail": "/assets/images/episodes/what-is-life-thumbnail.webp",
+        "release": "2010-11-08",
+        "episode": "S01E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "ocean-of-fear",
+        "name": "Ocean of Fear",
+        "description": "Finn and Jake are terrified by the Oceans of the Land of Ooo.",
+        "image": "/assets/images/episodes/ocean-of-fear.webp",
+        "thumbnail": "/assets/images/episodes/ocean-of-fear-thumbnail.webp",
+        "release": "2010-11-15",
+        "episode": "S01E16",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "when-wedding-bells-thaw",
+        "name": "When Wedding Bells Thaw",
+        "description": "Finn and Jake are invited to the Ice King's wedding.",
+        "image": "/assets/images/episodes/when-wedding-bells-thaw.webp",
+        "thumbnail": "/assets/images/episodes/when-wedding-bells-thaw-thumbnail.webp",
+        "release": "2010-11-22",
+        "episode": "S01E17",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "dungeon",
+        "name": "Dungeon",
+        "description": "Finn and Jake are given one of the highest responsibilities: to guard the magical Dungeon.",
+        "image": "/assets/images/episodes/dungeon.webp",
+        "thumbnail": "/assets/images/episodes/dungeon-thumbnail.webp",
+        "release": "2010-11-29",
+        "episode": "S01E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-duke",
+        "name": "The Duke",
+        "description": "Finn and Jake are outsmarted by a rogue cookie.",
+        "image": "/assets/images/episodes/the-duke.webp",
+        "thumbnail": "/assets/images/episodes/the-duke-thumbnail.webp",
+        "release": "2010-12-06",
+        "episode": "S01E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "freak-city",
+        "name": "Freak City",
+        "description": "Finn and Jake are turned into criminals by the magic man.",
+        "image": "/assets/images/episodes/freak-city.webp",
+        "thumbnail": "/assets/images/episodes/freak-city-thumbnail.webp",
+        "release": "2010-12-13",
+        "episode": "S01E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "donny",
+        "name": "Donny",
+        "description": "Finn and Jake are called to help fight off a ghost that is causing trouble in a small village.",
+        "image": "/assets/images/episodes/donny.webp",
+        "thumbnail": "/assets/images/episodes/donny-thumbnail.webp",
+        "release": "2010-12-20",
+        "episode": "S01E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "henchman",
+        "name": "Henchman",
+        "description": "Finn takes the place of Marceline's henchman, but finds it hard to obey her seemingly evil commands.",
+        "image": "/assets/images/episodes/henchman.webp",
+        "thumbnail": "/assets/images/episodes/henchman-thumbnail.webp",
+        "release": "2010-12-27",
+        "episode": "S01E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "rainy-day-daydream",
+        "name": "Rainy Day Daydream",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/rainy-day-daydream.webp",
+        "thumbnail": "/assets/images/episodes/rainy-day-daydream-thumbnail.webp",
+        "release": "2011-01-03",
+        "episode": "S01E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "what-have-you-done",
+        "name": "What Have You Done?",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/what-have-you-done.webp",
+        "thumbnail": "/assets/images/episodes/what-have-you-done-thumbnail.webp",
+        "release": "2011-01-10",
+        "episode": "S01E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "his-hero",
+        "name": "His Hero",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/his-hero.webp",
+        "thumbnail": "/assets/images/episodes/his-hero-thumbnail.webp",
+        "release": "2011-01-17",
+        "episode": "S01E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "gut-grinder",
+        "name": "Gut Grinder",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/gut-grinder.webp",
+        "thumbnail": "/assets/images/episodes/gut-grinder-thumbnail.webp",
+        "release": "2011-01-24",
+        "episode": "S01E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "it-came-from-the-nightosphere",
+        "name": "It Came from the Nightosphere",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/it-came-from-the-nightosphere.webp",
+        "thumbnail": "/assets/images/episodes/it-came-from-the-nightosphere-thumbnail.webp",
+        "release": "2011-02-14",
+        "episode": "S02E01",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-eyes",
+        "name": "The Eyes",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-eyes.webp",
+        "thumbnail": "/assets/images/episodes/the-eyes-thumbnail.webp",
+        "release": "2011-02-21",
+        "episode": "S02E02",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "loyalty-to-the-king",
+        "name": "Loyalty to the King",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/loyalty-to-the-king.webp",
+        "thumbnail": "/assets/images/episodes/loyalty-to-the-king-thumbnail.webp",
+        "release": "2011-02-28",
+        "episode": "S02E03",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "blood-under-the-skin",
+        "name": "Blood Under the Skin",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/blood-under-the-skin.webp",
+        "thumbnail": "/assets/images/episodes/blood-under-the-skin-thumbnail.webp",
+        "release": "2011-03-07",
+        "episode": "S02E04",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "storytelling",
+        "name": "Storytelling",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/storytelling.webp",
+        "thumbnail": "/assets/images/episodes/storytelling-thumbnail.webp",
+        "release": "2011-03-14",
+        "episode": "S02E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "slow-love",
+        "name": "Slow Love",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/slow-love.webp",
+        "thumbnail": "/assets/images/episodes/slow-love-thumbnail.webp",
+        "release": "2011-03-21",
+        "episode": "S02E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "power-animal",
+        "name": "Power Animal",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/power-animal.webp",
+        "thumbnail": "/assets/images/episodes/power-animal-thumbnail.webp",
+        "release": "2011-03-28",
+        "episode": "S02E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "crystals-have-power",
+        "name": "Crystals Have Power",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/crystals-have-power.webp",
+        "thumbnail": "/assets/images/episodes/crystals-have-power-thumbnail.webp",
+        "release": "2011-04-04",
+        "episode": "S02E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-other-tarts",
+        "name": "The Other Tarts",
+        "description": "Finn and Jake are give a quest by Princess Bubblegum to deliver some very important tarts.",
+        "image": "/assets/images/episodes/the-other-tarts.webp",
+        "thumbnail": "/assets/images/episodes/the-other-tarts-thumbnail.webp",
+        "release": "2011-04-11",
+        "episode": "S02E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "to-cut-a-womans-hair",
+        "name": "To cut a woman's hair",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",        
+        "image": "/assets/images/episodes/to-cut-a-womans-hair.webp",
+        "thumbnail": "/assets/images/episodes/to-cut-a-womans-hair-thumbnail.webp",
+        "release": "2011-04-18",
+        "episode": "S02E10",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-chamber-of-frozen-blades",
+        "name": "The Chamber of Frozen Blades",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-chamber-of-frozen-blades.webp",
+        "thumbnail": "/assets/images/episodes/the-chamber-of-frozen-blades-thumbnail.webp",
+        "release": "2011-04-25",
+        "episode": "S02E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "her-parents",
+        "name": "Her Parents",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/her-parents.webp",
+        "thumbnail": "/assets/images/episodes/her-parents-thumbnail.webp",
+        "release": "2011-05-02",
+        "episode": "S02E12",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-pods",
+        "name": "The Pods",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-pods.webp",
+        "thumbnail": "/assets/images/episodes/the-pods-thumbnail.webp",
+        "release": "2011-05-09",
+        "episode": "S02E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-silent-king",
+        "name": "The Silent King",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-silent-king.webp",
+        "thumbnail": "/assets/images/episodes/the-silent-king-thumbnail.webp",
+        "release": "2011-05-16",
+        "episode": "S02E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-real-you",
+        "name": "The Real You",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-real-you.webp",
+        "thumbnail": "/assets/images/episodes/the-real-you-thumbnail.webp",
+        "release": "2011-05-23",
+        "episode": "S02E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "guardians-of-sunshine",
+        "name": "Guardians of Sunshine",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/guardians-of-sunshine.webp",
+        "thumbnail": "/assets/images/episodes/guardians-of-sunshine-thumbnail.webp",
+        "release": "2011-05-30",
+        "episode": "S02E16",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "death-in-bloom",
+        "name": "Death in Bloom",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/death-in-bloom.webp",
+        "thumbnail": "/assets/images/episodes/death-in-bloom-thumbnail.webp",
+        "release": "2011-06-06",
+        "episode": "S02E17",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "susans-strong",
+        "name": "Susan Strong",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/susans-strong.webp",
+        "thumbnail": "/assets/images/episodes/susans-strong-thumbnail.webp",
+        "release": "2011-06-13",
+        "episode": "S02E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "mystery-train",
+        "name": "Mystery Train",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/mystery-train.webp",
+        "thumbnail": "/assets/images/episodes/mystery-train-thumbnail.webp",
+        "release": "2011-06-20",
+        "episode": "S02E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "go-with-me",
+        "name": "Go With Me",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/go-with-me.webp",
+        "thumbnail": "/assets/images/episodes/go-with-me-thumbnail.webp",
+        "release": "2011-06-27",
+        "episode": "S02E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "belly-of-the-beast",
+        "name": "Belly of the Beast",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/belly-of-the-beast.webp",
+        "thumbnail": "/assets/images/episodes/belly-of-the-beast-thumbnail.webp",
+        "release": "2011-07-11",
+        "episode": "S02E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-limit",
+        "name": "The Limit",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-limit.webp",
+        "thumbnail": "/assets/images/episodes/the-limit-thumbnail.webp",
+        "release": "2011-07-18",
+        "episode": "S02E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "video-makers",
+        "name": "Video Makers",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/video-makers.webp",
+        "thumbnail": "/assets/images/episodes/video-makers-thumbnail.webp",
+        "release": "2011-07-25",
+        "episode": "S02E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "mortal-folly",
+        "name": "Mortal Folly",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/mortal-folly.webp",
+        "thumbnail": "/assets/images/episodes/mortal-folly-thumbnail.webp",
+        "release": "2011-08-01",
+        "episode": "S02E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "mortal-recoil",
+        "name": "Mortal Recoil",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/mortal-recoil.webp",
+        "thumbnail": "/assets/images/episodes/mortal-recoil-thumbnail.webp",
+        "release": "2011-08-08",
+        "episode": "S02E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "heat-signature",
+        "name": "Heat Signature",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/heat-signature.webp",
+        "thumbnail": "/assets/images/episodes/heat-signature-thumbnail.webp",
+        "release": "2011-08-15",
+        "episode": "S02E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "conquest-of-cuteness",
+        "name": "Conquest of Cuteness",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/conquest-of-cuteness.webp",
+        "thumbnail": "/assets/images/episodes/conquest-of-cuteness-thumbnail.webp",
+        "release": "2011-08-22",
+        "episode": "S03E01",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "morituri-te-salutamus",
+        "name": "Morituri te Salutamus",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/morituri-te-salutamus.webp",
+        "thumbnail": "/assets/images/episodes/morituri-te-salutamus-thumbnail.webp",
+        "release": "2011-08-29",
+        "episode": "S03E02",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "memory-of-a-memory",
+        "name": "Memory of a Memory",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/memory-of-a-memory.webp",
+        "thumbnail": "/assets/images/episodes/memory-of-a-memory-thumbnail.webp",
+        "release": "2011-09-12",
+        "episode": "S03E03",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "hitman",
+        "name": "Hitman",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/hitman.webp",
+        "thumbnail": "/assets/images/episodes/hitman-thumbnail.webp",
+        "release": "2011-09-19",
+        "episode": "S03E04",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "too-young",
+        "name": "Too Young",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/too-young.webp",
+        "thumbnail": "/assets/images/episodes/too-young-thumbnail.webp",
+        "release": "2011-09-26",
+        "episode": "S03E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-monster",
+        "name": "The Monster",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-monster.webp",
+        "thumbnail": "/assets/images/episodes/the-monster-thumbnail.webp",
+        "release": "2011-10-03",
+        "episode": "S03E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "still",
+        "name": "Still",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/still.webp",
+        "thumbnail": "/assets/images/episodes/still-thumbnail.webp",
+        "release": "2011-10-10",
+        "episode": "S03E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "wizard-battle",
+        "name": "Wizard Battle",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/wizard-battle.webp",
+        "thumbnail": "/assets/images/episodes/wizard-battle-thumbnail.webp",
+        "release": "2011-10-17",
+        "episode": "S03E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "fionna-and-cake",
+        "name": "Fionna and Cake",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/fionna-and-cake.webp",
+        "thumbnail": "/assets/images/episodes/fionna-and-cake-thumbnail.webp",
+        "release": "2011-10-24",
+        "episode": "S03E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "what-was-missing",
+        "name": "What Was Missing",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/what-was-missing.webp",
+        "thumbnail": "/assets/images/episodes/what-was-missing-thumbnail.webp",
+        "release": "2011-10-31",
+        "episode": "S03E10",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "apple-thief",
+        "name": "Apple Thief",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/apple-thief.webp",
+        "thumbnail": "/assets/images/episodes/apple-thief-thumbnail.webp",
+        "release": "2011-11-07",
+        "episode": "S03E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-creeps",
+        "name": "The Creeps",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-creeps.webp",
+        "thumbnail": "/assets/images/episodes/the-creeps-thumbnail.webp",
+        "release": "2011-11-14",
+        "episode": "S03E12",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "from-bad-to-worse",
+        "name": "From Bad to Worse",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/from-bad-to-worse.webp",
+        "thumbnail": "/assets/images/episodes/from-bad-to-worse-thumbnail.webp",
+        "release": "2011-11-21",
+        "episode": "S03E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "beautopia",
+        "name": "Beautopia",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/beautopia.webp",
+        "thumbnail": "/assets/images/episodes/beautopia-thumbnail.webp",
+        "release": "2011-11-28",
+        "episode": "S03E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "no-one-can-hear-you",
+        "name": "No One Can Hear You",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/no-one-can-hear-you.webp",
+        "thumbnail": "/assets/images/episodes/no-one-can-hear-you-thumbnail.webp",
+        "release": "2012-01-02",
+        "episode": "S03E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jake-vs-me-mow",
+        "name": "Jake vs. Me-Mow",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/jake-vs-me-mow.webp",
+        "thumbnail": "/assets/images/episodes/jake-vs-me-mow-thumbnail.webp",
+        "release": "2012-01-09",
+        "episode": "S03E16",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "thank-you",
+        "name": "Thank You",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/thank-you.webp",
+        "thumbnail": "/assets/images/episodes/thank-you-thumbnail.webp",
+        "release": "2012-01-16",
+        "episode": "S03E17",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-new-frontier",
+        "name": "The New Frontier",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-new-frontier.webp",
+        "thumbnail": "/assets/images/episodes/the-new-frontier-thumbnail.webp",
+        "release": "2012-01-23",
+        "episode": "S03E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "holly-jolly-secrets-part-i",
+        "name": "Holly Jolly Secrets, Part I",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/holly-jolly-secrets-part-i.webp",
+        "thumbnail": "/assets/images/episodes/holly-jolly-secrets-part-i-thumbnail.webp",
+        "release": "2011-12-05",
+        "episode": "S03E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "holly-jolly-secrets-part-ii",
+        "name": "Holly Jolly Secrets, Part II",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/holly-jolly-secrets-part-ii.webp",
+        "thumbnail": "/assets/images/episodes/holly-jolly-secrets-part-ii-thumbnail.webp",
+        "release": "2011-12-05",
+        "episode": "S03E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "marcelines-closet",
+        "name": "Marceline's Closet",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/marcelines-closet.webp",
+        "thumbnail": "/assets/images/episodes/marcelines-closet-thumbnail.webp",
+        "release": "2012-01-30",
+        "episode": "S03E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "paper-pete",
+        "name": "Paper Pete",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/paper-pete.webp",
+        "thumbnail": "/assets/images/episodes/paper-pete-thumbnail.webp",
+        "release": "2012-02-06",
+        "episode": "S03E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "another-way",
+        "name": "Another Way",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/another-way.webp",
+        "thumbnail": "/assets/images/episodes/another-way-thumbnail.webp",
+        "release": "2012-02-13",
+        "episode": "S03E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "ghost-princess",
+        "name": "Ghost Princess",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/ghost-princess.webp",
+        "thumbnail": "/assets/images/episodes/ghost-princess-thumbnail.webp",
+        "release": "2012-02-20",
+        "episode": "S03E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "dad-s-daughters",
+        "name": "Dad's Dungeon",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/dad-s-daughters.webp",
+        "thumbnail": "/assets/images/episodes/dad-s-daughters-thumbnail.webp",
+        "release": "2012-02-27",
+        "episode": "S03E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "incendium",
+        "name": "Incendium",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/incendium.webp",
+        "thumbnail": "/assets/images/episodes/incendium-thumbnail.webp",
+        "release": "2012-02-13",
+        "episode": "S03E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "hot-to-the-touch",
+        "name": "Hot to the Touch",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/hot-to-the-touch.webp",
+        "thumbnail": "/assets/images/episodes/hot-to-the-touch-thumbnail.webp",
+        "release": "2012-07-30",
+        "episode": "S04E01",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "five-short-graybles",
+        "name": "Five Short Graybles",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/five-short-graybles.webp",
+        "thumbnail": "/assets/images/episodes/five-short-graybles-thumbnail.webp",
+        "release": "2012-08-06",
+        "episode": "S04E02",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "web-weirdos",
+        "name": "Web Weirdos",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/web-weirdos.webp",
+        "thumbnail": "/assets/images/episodes/web-weirdos-thumbnail.webp",
+        "release": "2012-08-13",
+        "episode": "S04E03",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "dream-of-love",
+        "name": "Dream of Love",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/dream-of-love.webp",
+        "thumbnail": "/assets/images/episodes/dream-of-love-thumbnail.webp",
+        "release": "2012-08-20",
+        "episode": "S04E04",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "return-to-the-nightosphere",
+        "name": "Return to the Nightosphere",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/return-to-the-nightosphere.webp",
+        "thumbnail": "/assets/images/episodes/return-to-the-nightosphere-thumbnail.webp",
+        "release": "2012-08-27",
+        "episode": "S04E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "daddy-s-little-monster",
+        "name": "Daddy's Little Monster",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/daddy-s-little-monster.webp",
+        "thumbnail": "/assets/images/episodes/daddy-s-little-monster-thumbnail.webp",
+        "release": "2012-09-03",
+        "episode": "S04E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "in-your-footsteps",
+        "name": "In Your Footsteps",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/in-your-footsteps.webp",
+        "thumbnail": "/assets/images/episodes/in-your-footsteps-thumbnail.webp",
+        "release": "2012-09-10",
+        "episode": "S04E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "hug-wolf",
+        "name": "Hug Wolf",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/hug-wolf.webp",
+        "thumbnail": "/assets/images/episodes/hug-wolf-thumbnail.webp",
+        "release": "2012-09-17",
+        "episode": "S04E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "princess-monster-wife",
+        "name": "Princess Monster Wife",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/princess-monster-wife.webp",
+        "thumbnail": "/assets/images/episodes/princess-monster-wife-thumbnail.webp",
+        "release": "2012-09-24",
+        "episode": "S04E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "goliad",
+        "name": "Goliad",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/goliad.webp",
+        "thumbnail": "/assets/images/episodes/goliad-thumbnail.webp",
+        "release": "2012-10-01",
+        "episode": "S04E10",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "beyond-this-earthly-realm",
+        "name": "Beyond this Earthly Realm",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/beyond-this-earthly-realm.webp",
+        "thumbnail": "/assets/images/episodes/beyond-this-earthly-realm-thumbnail.webp",
+        "release": "2012-10-08",
+        "episode": "S04E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "gotcha",
+        "name": "Gotcha!",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/gotcha.webp",
+        "thumbnail": "/assets/images/episodes/gotcha-thumbnail.webp",
+        "release": "2012-10-15",
+        "episode": "S04E12",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "princess-cookie",
+        "name": "Princess Cookie",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/princess-cookie.webp",
+        "thumbnail": "/assets/images/episodes/princess-cookie-thumbnail.webp",
+        "release": "2012-10-22",
+        "episode": "S04E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "card-wars",
+        "name": "Card Wars",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/card-wars.webp",
+        "thumbnail": "/assets/images/episodes/card-wars-thumbnail.webp",
+        "release": "2012-10-29",
+        "episode": "S04E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "sons-of-mars",
+        "name": "Sons of Mars",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/sons-of-mars.webp",
+        "thumbnail": "/assets/images/episodes/sons-of-mars-thumbnail.webp",
+        "release": "2012-11-05",
+        "episode": "S04E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "burning-low",
+        "name": "Burning Low",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/burning-low.webp",
+        "thumbnail": "/assets/images/episodes/burning-low-thumbnail.webp",
+        "release": "2012-07-30",
+        "episode": "S04E16",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bmo-noire",
+        "name": "BMO Noire",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/bmo-noire.webp",
+        "thumbnail": "/assets/images/episodes/bmo-noire-thumbnail.webp",
+        "release": "2012-11-19",
+        "episode": "S04E17",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "king-worm",
+        "name": "King Worm",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/king-worm.webp",
+        "thumbnail": "/assets/images/episodes/king-worm-thumbnail.webp",
+        "release": "2012-11-26",
+        "episode": "S04E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "lady-and-peebles",
+        "name": "Lady & Peebles",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/lady-and-peebles.webp",
+        "thumbnail": "/assets/images/episodes/lady-and-peebles-thumbnail.webp",
+        "release": "2012-12-03",
+        "episode": "S04E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "you-made-me",
+        "name": "You Made Me",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/you-made-me.webp",
+        "thumbnail": "/assets/images/episodes/you-made-me-thumbnail.webp",
+        "release": "2012-12-10",
+        "episode": "S04E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "who-would-win",
+        "name": "Who Would Win",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/who-would-win.webp",
+        "thumbnail": "/assets/images/episodes/who-would-win-thumbnail.webp",
+        "release": "2012-12-17",
+        "episode": "S04E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "ignition-point",
+        "name": "Ignition Point",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/ignition-point.webp",
+        "thumbnail": "/assets/images/episodes/ignition-point-thumbnail.webp",
+        "release": "2013-01-07",
+        "episode": "S04E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-hard-easy",
+        "name": "The Hard Easy",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-hard-easy.webp",
+        "thumbnail": "/assets/images/episodes/the-hard-easy-thumbnail.webp",
+        "release": "2013-01-14",
+        "episode": "S04E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "reign-of-gunters",
+        "name": "Reign of Gunters",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/reign-of-gunters.webp",
+        "thumbnail": "/assets/images/episodes/reign-of-gunters-thumbnail.webp",
+        "release": "2013-01-21",
+        "episode": "S04E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "i-remember-you",
+        "name": "I Remember You",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/i-remember-you.webp",
+        "thumbnail": "/assets/images/episodes/i-remember-you-thumbnail.webp",
+        "release": "2013-10-15",
+        "episode": "S04E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-litch",
+        "name": "The Lich",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-litch.webp",
+        "thumbnail": "/assets/images/episodes/the-litch-thumbnail.webp",
+        "release": "2013-10-22",
+        "episode": "S04E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "finn-the-human",
+        "name": "Finn the Human",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/finn-the-human.webp",
+        "thumbnail": "/assets/images/episodes/finn-the-human-thumbnail.webp",
+        "release": "2012-12-03",
+        "episode": "S05E01",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jake-the-dog",
+        "name": "Jake the Dog",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/jake-the-dog.webp",
+        "thumbnail": "/assets/images/episodes/jake-the-dog-thumbnail.webp",
+        "release": "2012-12-03",
+        "episode": "S05E02",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "five-more-short-graybles",
+        "name": "Five More Short Graybles",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/five-more-short-graybles.webp",
+        "thumbnail": "/assets/images/episodes/five-more-short-graybles-thumbnail.webp",
+        "release": "2012-12-10",
+        "episode": "S05E03",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "up-a-tree",
+        "name": "Up a Tree",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/up-a-tree.webp",
+        "thumbnail": "/assets/images/episodes/up-a-tree-thumbnail.webp",
+        "release": "2012-12-17",
+        "episode": "S05E04",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "all-the-little-people",
+        "name": "All the Little People",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/all-the-little-people.webp",
+        "thumbnail": "/assets/images/episodes/all-the-little-people-thumbnail.webp",
+        "release": "2013-01-14",
+        "episode": "S05E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jake-the-dad",
+        "name": "Jake the Dad",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/jake-the-dad.webp",
+        "thumbnail": "/assets/images/episodes/jake-the-dad-thumbnail.webp",
+        "release": "2013-01-21",
+        "episode": "S05E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "davey",
+        "name": "Davey",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/davey.webp",
+        "thumbnail": "/assets/images/episodes/davey-thumbnail.webp",
+        "release": "2013-01-28",
+        "episode": "S05E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "mystery-dungeon",
+        "name": "Mystery Dungeon",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/mystery-dungeon.webp",
+        "thumbnail": "/assets/images/episodes/mystery-dungeon-thumbnail.webp",
+        "release": "2013-02-04",
+        "episode": "S05E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "all-your-fault",
+        "name": "All Your Fault",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/all-your-fault.webp",
+        "thumbnail": "/assets/images/episodes/all-your-fault-thumbnail.webp",
+        "release": "2013-02-11",
+        "episode": "S05E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "little-dude",
+        "name": "Little Dude",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/little-dude.webp",
+        "thumbnail": "/assets/images/episodes/little-dude-thumbnail.webp",
+        "release": "2013-02-18",
+        "episode": "S05E10",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bad-little-boy",
+        "name" : "Bad Little",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/bad-little-boy.webp",
+        "thumbnail": "/assets/images/episodes/bad-little-boy-thumbnail.webp",
+        "release": "2013-02-18",
+        "episode": "S05E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "vault-of-bones",
+        "name": "Vault of Bones",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/vault-of-bones.webp",
+        "thumbnail": "/assets/images/episodes/vault-of-bones-thumbnail.webp",
+        "release": "2013-02-25",
+        "episode": "S05E12",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-great-bird-man",
+        "name" : "The Great Bird Human",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-great-bird.webp",
+        "thumbnail": "/assets/images/episodes/the-great-bird-thumbnail.webp",
+        "release": "2013-03-04",
+        "episode": "S05E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "simon-and-marce-line",
+        "name": "Simon and Marcy",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/simon-and-marce-line.webp",
+        "thumbnail": "/assets/images/episodes/simon-and-marce-line-thumbnail.webp",
+        "release": "2013-03-25",
+        "episode": "S05E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "a-glitch-is-a-glitch",
+        "name": "A Glitch is a Glitch",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/a-glitch-is-a-glitch.webp",
+        "thumbnail": "/assets/images/episodes/a-glitch-is-a-glitch-thumbnail.webp",
+        "release": "2013-04-01",
+        "episode": "S05E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "puhoy",
+        "name": "Puhoy",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/puhoy.webp",
+        "thumbnail": "/assets/images/episodes/puhoy-thumbnail.webp",
+        "release": "2013-04-08",
+        "episode": "S05E16",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bmo-lost",
+        "name": "BMO Lost",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/bmo-lost.webp",
+        "thumbnail": "/assets/images/episodes/bmo-lost-thumbnail.webp",
+        "release": "2013-04-15",
+        "episode": "S05E17",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "princess-potluck",
+        "name": "Princess Potluck",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/princess-potluck.webp",
+        "thumbnail": "/assets/images/episodes/princess-potluck-thumbnail.webp",
+        "release": "2013-04-22",
+        "episode": "S05E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "james-baxter-the-horse",
+        "name": "James Baxter the Horse",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/james-baxter-the-horse.webp",
+        "thumbnail": "/assets/images/episodes/james-baxter-the-horse-thumbnail.webp",
+        "release": "2013-04-29",
+        "episode": "S05E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "shh",
+        "name": "Shh!",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/shh.webp",
+        "thumbnail": "/assets/images/episodes/shh-thumbnail.webp",
+        "release": "2013-05-06",
+        "episode": "S05E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-suitor",
+        "name": "The Suitor",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-suitor.webp",
+        "thumbnail": "/assets/images/episodes/the-suitor-thumbnail.webp",
+        "release": "2013-05-13",
+        "episode": "S05E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-party-s-over-isla-de-senorita",
+        "name": "The Party's Over, Isla de Señorita",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-party-s-over-isla-de-senorita.webp",
+        "thumbnail": "/assets/images/episodes/the-party-s-over-isla-de-senorita-thumbnail.webp",
+        "release": "2013-05-20",
+        "episode": "S05E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "one-last-job",
+        "name": "One Last Job",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/one-last-job.webp",
+        "thumbnail": "/assets/images/episodes/one-last-job-thumbnail.webp",
+        "release": "2013-05-27",
+        "episode": "S05E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "another-five-more-short-graybles",
+        "name": "Another Five More Short Graybles",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/another-five-more-short-graybles.webp",
+        "thumbnail": "/assets/images/episodes/another-five-more-short-graybles-thumbnail.webp",
+        "release": "2013-06-03",
+        "episode": "S05E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "candy-streets",
+        "name": "Candy Streets",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/candy-streets.webp",
+        "thumbnail": "/assets/images/episodes/candy-streets-thumbnail.webp",
+        "release": "2013-06-10",
+        "episode": "S05E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "wizards-only-fools",
+        "name": "Wizards Only, Fools",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/wizards-only-fools.webp",
+        "thumbnail": "/assets/images/episodes/wizards-only-fools-thumbnail.webp",
+        "release": "2013-06-17",
+        "episode": "S05E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jake-suit",
+        "name": "Jake Suit",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/jake-suit.webp",
+        "thumbnail": "/assets/images/episodes/jake-suit-thumbnail.webp",
+        "release": "2013-06-24",
+        "episode": "S05E27",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "be-more",
+        "name": "Be More",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/be-more.webp",
+        "thumbnail": "/assets/images/episodes/be-more-thumbnail.webp",
+        "release": "2013-07-01",
+        "episode": "S05E28",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "sky-witch",
+        "name": "Sky Witch",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/sky-witch.webp",
+        "thumbnail": "/assets/images/episodes/sky-witch-thumbnail.webp",
+        "release": "2013-07-15",
+        "episode": "S05E29",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "frost-and-fire",
+        "name": "Frost & Fire",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/frost-and-fire.webp",
+        "thumbnail": "/assets/images/episodes/frost-and-fire-thumbnail.webp",
+        "release": "2013-07-22",
+        "episode": "S05E30",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "too-old",
+        "name": "Too Old",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/too-old.webp",
+        "thumbnail": "/assets/images/episodes/too-old-thumbnail.webp",
+        "release": "2013-07-29",
+        "episode": "S05E31",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "earth-and-water",
+        "name": "Earth & Water",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/earth-and-water.webp",
+        "thumbnail": "/assets/images/episodes/earth-and-water-thumbnail.webp",
+        "release": "2013-08-05",
+        "episode": "S05E32",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "time-sandwich",
+        "name": "Time Sandwich",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/time-sandwich.webp",
+        "thumbnail": "/assets/images/episodes/time-sandwich-thumbnail.webp",
+        "release": "2013-08-12",
+        "episode": "S05E33",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-vault",
+        "name": "The Vault",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-vault.webp",
+        "thumbnail": "/assets/images/episodes/the-vault-thumbnail.webp",
+        "release": "2013-08-19",
+        "episode": "S05E34",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "love-games",
+        "name": "Love Games",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/love-games.webp",
+        "thumbnail": "/assets/images/episodes/love-games-thumbnail.webp",
+        "release": "2013-08-26",
+        "episode": "S05E35",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "dungeon-train",
+        "name": "Dungeon Train",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/dungeon-train.webp",
+        "thumbnail": "/assets/images/episodes/dungeon-train-thumbnail.webp",
+        "release": "2013-09-02",
+        "episode": "S05E36",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "box-prince",
+        "name": "Box Prince",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/box-prince.webp",
+        "thumbnail": "/assets/images/episodes/box-prince-thumbnail.webp",
+        "release": "2013-09-09",
+        "episode": "S05E37",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "red-starved",
+        "name": "Red Starved",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/red-starved.webp",
+        "thumbnail": "/assets/images/episodes/red-starved-thumbnail.webp",
+        "release": "2013-09-16",
+        "episode": "S05E38",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "we-fixed-a-truck",
+        "name": "We Fixed a Truck",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/we-fixed-a-truck.webp",
+        "thumbnail": "/assets/images/episodes/we-fixed-a-truck-thumbnail.webp",
+        "release": "2013-09-23",
+        "episode": "S05E39",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "play-date",
+        "name": "Play Date",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/play-date.webp",
+        "thumbnail": "/assets/images/episodes/play-date-thumbnail.webp",
+        "release": "2013-09-30",
+        "episode": "S05E40",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-pit",
+        "name": "The Pit",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-pit.webp",
+        "thumbnail": "/assets/images/episodes/the-pit-thumbnail.webp",
+        "release": "2013-10-07",
+        "episode": "S05E41",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "james",
+        "name": "James",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/james.webp",
+        "thumbnail": "/assets/images/episodes/james-thumbnail.webp",
+        "release": "2013-10-14",
+        "episode": "S05E42",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "root-beer-guy",
+        "name": "Root Beer Guy",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/root-beer-guy.webp",
+        "thumbnail": "/assets/images/episodes/root-beer-guy-thumbnail.webp",
+        "release": "2013-10-21",
+        "episode": "S05E43",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "apple-wedding",
+        "name": "Apple Wedding",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/apple-wedding.webp",
+        "thumbnail": "/assets/images/episodes/apple-wedding-thumbnail.webp",
+        "release": "2013-10-28",
+        "episode": "S05E44",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "blade-of-grass",
+        "name": "Blade of Grass",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/blade-of-grass.webp",
+        "thumbnail": "/assets/images/episodes/blade-of-grass-thumbnail.webp",
+        "release": "2013-11-04",
+        "episode": "S05E45",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "rattleballs",
+        "name": "Rattleballs",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/rattleballs.webp",
+        "thumbnail": "/assets/images/episodes/rattleballs-thumbnail.webp",
+        "release": "2013-11-11",
+        "episode": "S05E46",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-red-throne",
+        "name": "The Red Throne",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-red-throne.webp",
+        "thumbnail": "/assets/images/episodes/the-red-throne-thumbnail.webp",
+        "release": "2013-11-18",
+        "episode": "S05E47",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "betty",
+        "name": "Betty",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/betty.webp",
+        "thumbnail": "/assets/images/episodes/betty-thumbnail.webp",
+        "release": "2013-11-25",
+        "episode": "S05E48",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bad-timing",
+        "name": "Bad Timing",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/bad-timing.webp",
+        "thumbnail": "/assets/images/episodes/bad-timing-thumbnail.webp",
+        "release": "2013-12-02",
+        "episode": "S05E49",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "lemonhope-part-one",
+        "name": "Lemonhope Part One",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/lemonhope-part-one.webp",
+        "thumbnail": "/assets/images/episodes/lemonhope-part-one-thumbnail.webp",
+        "release": "2013-12-02",
+        "episode": "S05E50",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "lemonhope-part-two",
+        "name": "Lemonhope Part Two",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/lemonhope-part-two.webp",
+        "thumbnail": "/assets/images/episodes/lemonhope-part-two-thumbnail.webp",
+        "release": "2013-12-02",
+        "episode": "S05E51",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "billy-s-bucket-list",
+        "name": "Billy's Bucket List",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/billy-s-bucket-list.webp",
+        "thumbnail": "/assets/images/episodes/billy-s-bucket-list-thumbnail.webp",
+        "release": "2013-12-02",
+        "episode": "S05E52",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "wake-up",
+        "name": "Wake Up",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/wake-up.webp",
+        "thumbnail": "/assets/images/episodes/wake-up-thumbnail.webp",
+        "release": "2014-04-21",
+        "episode": "S06E01",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "escape-from-the-citadel",
+        "name": "Escape from the Citadel",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/escape-from-the-citadel.webp",
+        "thumbnail": "/assets/images/episodes/escape-from-the-citadel-thumbnail.webp",
+        "release": "2014-04-21",
+        "episode": "S06E02",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "james-ii",
+        "name": "James II",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/james-ii.webp",
+        "thumbnail": "/assets/images/episodes/james-ii-thumbnail.webp",
+        "release": "2014-04-28",
+        "episode": "S06E03",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-tower",
+        "name": "The Tower",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-tower.webp",
+        "thumbnail": "/assets/images/episodes/the-tower-thumbnail.webp",
+        "release": "2014-05-05",
+        "episode": "S06E04",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "sad-face",
+        "name": "Sad Face",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/sad-face.webp",
+        "thumbnail": "/assets/images/episodes/sad-face-thumbnail.webp",
+        "release": "2014-05-12",
+        "episode": "S06E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "breezy",
+        "name": "Breezy",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/breezy.webp",
+        "thumbnail": "/assets/images/episodes/breezy-thumbnail.webp",
+        "release": "2014-06-05",
+        "episode": "S06E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "food-chain",
+        "name": "Food Chain",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/food-chain.webp",
+        "thumbnail": "/assets/images/episodes/food-chain-thumbnail.webp",
+        "release": "2014-06-12",
+        "episode": "S06E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "furniture-and-meat",
+        "name": "Furniture & Meat",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/furniture-and-meat.webp",
+        "thumbnail": "/assets/images/episodes/furniture-and-meat-thumbnail.webp",
+        "release": "2014-06-19",
+        "episode": "S06E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-prince-who-wanted-everything",
+        "name": "The Prince Who Wanted Everything",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-prince-who-wanted-everything.webp",
+        "thumbnail": "/assets/images/episodes/the-prince-who-wanted-everything-thumbnail.webp",
+        "release": "2014-06-26",
+        "episode": "S06E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "something-big",
+        "name": "Something Big",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/something-big.webp",
+        "thumbnail": "/assets/images/episodes/something-big-thumbnail.webp",
+        "release": "2014-07-03",
+        "episode": "S06E10",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "little-brother",
+        "name": "Little Brother",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/little-brother.webp",
+        "thumbnail": "/assets/images/episodes/little-brother-thumbnail.webp",
+        "release": "2014-07-10",
+        "episode": "S06E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "ocarina",
+        "name": "Ocarina",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/ocarina.webp",
+        "thumbnail": "/assets/images/episodes/ocarina-thumbnail.webp",
+        "release": "2014-07-17",
+        "episode": "S06E12",
+        "character_slugs": ["finn", "jake"]
+    },
+
+    {
+        "slug": "thanks-for-the-crabapples-giuseppe",
+        "name": "Thanks for the Crabapples, Giuseppe",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/thanks-for-the-crabapples-giuseppe.webp",
+        "thumbnail": "/assets/images/episodes/thanks-for-the-crabapples-giuseppe-thumbnail.webp",
+        "release": "2014-07-24",
+        "episode": "S06E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "princess-day",
+        "name": "Princess Day",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/princess-day.webp",
+        "thumbnail": "/assets/images/episodes/princess-day-thumbnail.webp",
+        "release": "2014-07-31",
+        "episode": "S06E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "nemesis",
+        "name": "Nemesis",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/nemesis.webp",
+        "thumbnail": "/assets/images/episodes/nemesis-thumbnail.webp",
+        "release": "2014-08-07",
+        "episode": "S06E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "joshua-and-margaret-investigations",
+        "name": "Joshua and Margaret Investigations",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/joshua-and-margaret-investigations.webp",
+        "thumbnail": "/assets/images/episodes/joshua-and-margaret-investigations-thumbnail.webp",
+        "release": "2014-08-14",
+        "episode": "S06E16",
+        "character_slugs": ["finn", "jake"]
+    },
+
+    {
+        "slug": "ghost-fly",
+        "name": "Ghost Fly",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/ghost-fly.webp",
+        "thumbnail": "/assets/images/episodes/ghost-fly-thumbnail.webp",
+        "release": "2014-08-21",
+        "episode": "S06E17",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "everything-s-jake",
+        "name": "Everything's Jake",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/everything-s-jake.webp",
+        "thumbnail": "/assets/images/episodes/everything-s-jake-thumbnail.webp",
+        "release": "2014-08-28",
+        "episode": "S06E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "is-that-you",
+        "name": "Is That You?",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/is-that-you.webp",
+        "thumbnail": "/assets/images/episodes/is-that-you-thumbnail.webp",
+        "release": "2014-09-04",
+        "episode": "S06E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jake-the-brick",
+        "name": "Jake the Brick",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/jake-the-brick.webp",
+        "thumbnail": "/assets/images/episodes/jake-the-brick-thumbnail.webp",
+        "release": "2014-09-11",
+        "episode": "S06E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "dentist",
+        "name": "Dentist",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/dentist.webp",
+        "thumbnail": "/assets/images/episodes/dentist-thumbnail.webp",
+        "release": "2014-09-18",
+        "episode": "S06E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-cooler",
+        "name": "The Cooler",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-cooler.webp",
+        "thumbnail": "/assets/images/episodes/the-cooler-thumbnail.webp",
+        "release": "2014-09-25",
+        "episode": "S06E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-pajama-war",
+        "name": "The Pajama War",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-pajama-war.webp",
+        "thumbnail": "/assets/images/episodes/the-pajama-war-thumbnail.webp",
+        "release": "2014-10-02",
+        "episode": "S06E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "evergreen",
+        "name": "Evergreen",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/evergreen.webp",
+        "thumbnail": "/assets/images/episodes/evergreen-thumbnail.webp",
+        "release": "2014-10-16",
+        "episode": "S06E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "astral-plane",
+        "name": "Astral Plane",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/astral-plane.webp",
+        "thumbnail": "/assets/images/episodes/astral-plane-thumbnail.webp",
+        "release": "2014-10-23",
+        "episode": "S06E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "gold-stars",
+        "name": "Gold Stars",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/gold-stars.webp",
+        "thumbnail": "/assets/images/episodes/gold-stars-thumbnail.webp",
+        "release": "2014-10-30",
+        "episode": "S06E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-visitors",
+        "name": "The Visitors",
+        "description": "Finn and Jake are given a quest by Princess Bubble gum to stop a monster.",
+        "image": "/assets/images/episodes/the-visitors.webp",
+        "thumbnail": "/assets/images/episodes/the-visitors-thumbnail.webp",
+        "release": "2014-11-06",
+        "episode": "S06E27",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-mountain",
+        "name": "The Mountain",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-mountain.webp",
+        "thumbnail": "/assets/images/episodes/the-mountain-thumbnail.webp",
+        "release": "2014-11-13",
+        "episode": "S06E28",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "dark-purple",
+        "name": "Dark Purple",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/dark-purple.webp",
+        "thumbnail": "/assets/images/episodes/dark-purple-thumbnail.webp",
+        "release": "2014-11-20",
+        "episode": "S06E29",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-diary",
+        "name": "The Diary",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-diary.webp",
+        "thumbnail": "/assets/images/episodes/the-diary-thumbnail.webp",
+        "release": "2014-11-26",
+        "episode": "S06E30",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "walnuts-amp-rain",
+        "name": "Walnuts & Rain",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/walnuts-amp-rain.webp",
+        "thumbnail": "/assets/images/episodes/walnuts-amp-rain-thumbnail.webp",
+        "release": "2014-12-03",
+        "episode": "S06E31",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "friends-forever",
+        "name": "Friends Forever",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/friends-forever.webp",
+        "thumbnail": "/assets/images/episodes/friends-forever-thumbnail.webp",
+        "release": "2014-12-10",
+        "episode": "S06E32",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jermaine",
+        "name": "Jermaine",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/jermaine.webp",
+        "thumbnail": "/assets/images/episodes/jermaine-thumbnail.webp",
+        "release": "2015-01-08",
+        "episode": "S06E33",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "chips-and-ice-cream",
+        "name": "Chips and Ice Cream",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/chips-and-ice-cream.webp",
+        "thumbnail": "/assets/images/episodes/chips-and-ice-cream-thumbnail.webp",
+        "release": "2015-01-15",
+        "episode": "S06E34",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "graybles-1000",
+        "name": "Graybles 1000+",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/graybles-1000.webp",
+        "thumbnail": "/assets/images/episodes/graybles-1000-thumbnail.webp",
+        "release": "2015-01-22",
+        "episode": "S06E35",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "hoots",
+        "name": "Hoots",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/hoots.webp",
+        "thumbnail": "/assets/images/episodes/hoots-thumbnail.webp",
+        "release": "2015-01-29",
+        "episode": "S06E36",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "water-park-prank",
+        "name": "Water Park Prank",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/water-park-prank.webp",
+        "thumbnail": "/assets/images/episodes/water-park-prank-thumbnail.webp",
+        "release": "2015-02-05",
+        "episode": "S06E37",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "you-forgot-your-floating-tent",
+        "name": "You Forgot Your Floatin' Tent",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/you-forgot-your-floating-tent.webp",
+        "thumbnail": "/assets/images/episodes/you-forgot-your-floating-tent-thumbnail.webp",
+        "release": "2015-02-12",
+        "episode": "S06E38",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "be-sweet",
+        "name": "Be Sweet",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/be-sweet.webp",
+        "thumbnail": "/assets/images/episodes/be-sweet-thumbnail.webp",
+        "release": "2015-02-19",
+        "episode": "S06E39",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "orgalorg",
+        "name": "Orgalorg",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/orgalorg.webp",
+        "thumbnail": "/assets/images/episodes/orgalorg-thumbnail.webp",
+        "release": "2015-02-26",
+        "episode": "S06E40",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "on-the-lam",
+        "name": "On the Lam",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/on-the-lam.webp",
+        "thumbnail": "/assets/images/episodes/on-the-lam-thumbnail.webp",
+        "release": "2015-03-05",
+        "episode": "S06E41",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "hot-diggity-doom",
+        "name": "Hot Diggity Doom",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/hot-diggity-doom.webp",
+        "thumbnail": "/assets/images/episodes/hot-diggity-doom-thumbnail.webp",
+        "release": "2015-03-12",
+        "episode": "S06E42",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-comet",
+        "name": "The Comet",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-comet.webp",
+        "thumbnail": "/assets/images/episodes/the-comet-thumbnail.webp",
+        "release": "2015-03-19",
+        "episode": "S06E43",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bonnibel-and-neddy",
+        "name": "Bonnibel and Neddy",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/bonnibel-and-neddy.webp",
+        "thumbnail": "/assets/images/episodes/bonnibel-and-neddy-thumbnail.webp",
+        "release": "2015-07-06",
+        "episode": "S07E01",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "varmints",
+        "name": "Varmints",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/varmints.webp",
+        "thumbnail": "/assets/images/episodes/varmints-thumbnail.webp",
+        "release": "2015-07-13",
+        "episode": "S07E02",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "cherry-cream-soda",
+        "name": "Cherry Cream Soda",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/cherry-cream-soda.webp",
+        "thumbnail": "/assets/images/episodes/cherry-cream-soda-thumbnail.webp",
+        "release": "2015-07-20",
+        "episode": "S07E03",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "mama-said",
+        "name": "Mama Said",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/mama-said.webp",
+        "thumbnail": "/assets/images/episodes/mama-said-thumbnail.webp",
+        "release": "2015-07-27",
+        "episode": "S07E04",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "football",
+        "name": "Football",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/football.webp",
+        "thumbnail": "/assets/images/episodes/football-thumbnail.webp",
+        "release": "2015-08-03",
+        "episode": "S07E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-1-marceline-the-vampire-queen",
+        "name": "Stakes Part 1: Marcel ine the Vampire Queen",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/stakes-part-1-marceline-the-vampire-queen.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-1-marceline-the-vampire-queen-thumbnail.webp",
+        "release": "2015-11-16",
+        "episode": "S07E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-2-everything-stays",
+        "name": "Stakes Part 2: Everything Stays",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/stakes-part-2-everything-stays.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-2-everything-stays-thumbnail.webp",
+        "release": "2015-11-16",
+        "episode": "S07E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-3-vamps-about",
+        "name": "Stakes Part 3: Vamps About",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/stakes-part-3-vamps-about.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-3-vamps-about-thumbnail.webp",
+        "release": "2015-11-17",
+        "episode": "S07E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-4-the-empress-eyes",
+        "name": "Stakes Part 4: The Empress' Eyes",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/stakes-part-4-the-empress-eyes.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-4-the-empress-eyes-thumbnail.webp",
+        "release": "2015-11-18",
+        "episode": "S07E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-5-may-i-come-in",
+        "name": "Stakes Part 5: May I Come In?",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/stakes-part-5-may-i-come-in.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-5-may-i-come-in-thumbnail.webp",
+        "release": "2015-11-19",
+        "episode": "S07E10",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-6-take-her-back",
+        "name": "Stakes Part 6: Take Her Back",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/stakes-part-6-take-her-back.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-6-take-her-back-thumbnail.webp",
+        "release": "2015-11-20",
+        "episode": "S07E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-7-checkmate",
+        "name": "Stakes Part 7: Checkmate",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/stakes-part-7-checkmate.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-7-checkmate-thumbnail.webp",
+        "release": "2015-11-20",
+        "episode": "S07E12",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "stakes-part-8-the-dark-cloud",
+        "name": "Stakes Part 8: The Dark Cloud",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/stakes-part-8-the-dark-cloud.webp",
+        "thumbnail": "/assets/images/episodes/stakes-part-8-the-dark-cloud-thumbnail.webp",
+        "release": "2015-11-20",
+        "episode": "S07E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-more-you-moe-the-moe-you-know",
+        "name": "The More You Moe, the Moe You Know",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-more-you-moe-the-moe-you-know.webp",
+        "thumbnail": "/assets/images/episodes/the-more-you-moe-the-moe-you-know-thumbnail.webp",
+        "release": "2015-11-23",
+        "episode": "S07E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "summer-showers",
+        "name": "Summer Showers",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/summer-showers.webp",
+        "thumbnail": "/assets/images/episodes/summer-showers-thumbnail.webp",
+        "release": "2015-11-24",
+        "episode": "S07E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "angel-face",
+        "name": "Angel Face",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/angel-face.webp",
+        "thumbnail": "/assets/images/episodes/angel-face-thumbnail.webp",
+        "release": "2015-11-25",
+        "episode": "S07E16",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "president-porpoise-is-missing",
+        "name": "President Porpoise is Missing!",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/president-porpoise-is-missing.webp",
+        "thumbnail": "/assets/images/episodes/president-porpoise-is-missing-thumbnail.webp",
+        "release": "2015-11-30",
+        "episode": "S07E17",
+        "character_slugs": ["finn", "jake"]
+    },
+{
+        "slug": "blank-eyed-girl",
+        "name": "Blank Eyed Girl",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/blank-eyed-girl.webp",
+        "thumbnail": "/assets/images/episodes/blank-eyed-girl-thumbnail.webp",
+        "release": "2015-12-01",
+        "episode": "S07E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bad-juice",
+        "name": "Bad Jubies",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/bad-juice.webp",
+        "thumbnail": "/assets/images/episodes/bad-juice-thumbnail.webp",
+        "release": "2015-12-02",
+        "episode": "S07E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "king-s-roke",
+        "name": "King's Ransom",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/king-s-roke.webp",
+        "thumbnail": "/assets/images/episodes/king-s-roke-thumbnail.webp",
+        "release": "2015-12-03",
+        "episode": "S07E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "scamps",
+        "name": "Scamps",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/scamps.webp",
+        "thumbnail": "/assets/images/episodes/scamps-thumbnail.webp",
+        "release": "2015-12-04",
+        "episode": "S07E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "crossover",
+        "name": "Crossover",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/crossover.webp",
+        "thumbnail": "/assets/images/episodes/crossover-thumbnail.webp",
+        "release": "2015-12-07",
+        "episode": "S07E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "hall-of-egress",
+        "name": "Hall of Egress",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/hall-of-egress.webp",
+        "thumbnail": "/assets/images/episodes/hall-of-egress-thumbnail.webp",
+        "release": "2015-12-08",
+        "episode": "S07E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "flute-spell",
+        "name": "Flute Spell",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/flute-spell.webp",
+        "thumbnail": "/assets/images/episodes/flute-spell-thumbnail.webp",
+        "release": "2015-12-09",
+        "episode": "S07E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-thin-yellow-line",
+        "name": "The Thin Yellow Line",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-thin-yellow-line.webp",
+        "thumbnail": "/assets/images/episodes/the-thin-yellow-line-thumbnail.webp",
+        "release": "2015-12-10",
+        "episode": "S07E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "broke-his-crown",
+        "name": "Broke His Crown",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/broke-his-crown.webp",
+        "thumbnail": "/assets/images/episodes/broke-his-crown-thumbnail.webp",
+        "release": "2016-01-17",
+        "episode": "S07E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "don-t-look",
+        "name": "Don't Look",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/don-t-look.webp",
+        "thumbnail": "/assets/images/episodes/don-t-look-thumbnail.webp",
+        "release": "2016-01-18",
+        "episode": "S07E27",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "beyond-the-grotto",
+        "name": "Beyond the Grotto",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/beyond-the-grotto.webp",
+        "thumbnail": "/assets/images/episodes/beyond-the-grotto-thumbnail.webp",
+        "release": "2016-01-19",
+        "episode": "S07E28",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "lady-rainicorn-of-the-crystal-dimension",
+        "name": "Lady Rainicorn of the Crystal Dimension",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/lady-rainicorn-of-the-crystal-dimension.webp",
+        "thumbnail": "/assets/images/episodes/lady-rainicorn-of-the-crystal-dimension-thumbnail.webp",
+        "release": "2016-01-20",
+        "episode": "S07E29",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "i-am-a-sword",
+        "name": "I Am a Sword",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/i-am-a-sword.webp",
+        "thumbnail": "/assets/images/episodes/i-am-a-sword-thumbnail.webp",
+        "release": "2016-01-21",
+        "episode": "S07E30",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bun-bun",
+        "name": "Bun Bun",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/bun-bun.webp",
+        "thumbnail": "/assets/images/episodes/bun-bun-thumbnail.webp",
+        "release": "2016-01-22",
+        "episode": "S07E31",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "normal-man",
+        "name": "Normal Man",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/normal-man.webp",
+        "thumbnail": "/assets/images/episodes/normal-man-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E32",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elemental",
+        "name": "Elemental",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/elemental.webp",
+        "thumbnail": "/assets/images/episodes/elemental-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E33",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "five-short-tables",
+        "name": "Five Short Tables",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/five-short-tables.webp",
+        "thumbnail": "/assets/images/episodes/five-short-tables-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E34",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-music-hole",
+        "name": "The Music Hole",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-music-hole.webp",
+        "thumbnail": "/assets/images/episodes/the-music-hole-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E35",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "daddy-daughter-card-wars",
+        "name": "Daddy-Daughter Card Wars",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/daddy-daughter-card-wars.webp",
+        "thumbnail": "/assets/images/episodes/daddy-daughter-card-wars-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E36",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "preboot",
+        "name": "Preboot",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/preboot.webp",
+        "thumbnail": "/assets/images/episodes/preboot-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E37",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "reboot",
+        "name": "Reboot",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/reboot.webp",
+        "thumbnail": "/assets/images/episodes/reboot-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E38",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "two-swords",
+        "name": "Two Swords",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/two-swords.webp",
+        "thumbnail": "/assets/images/episodes/two-swords-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E39",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "do-no-harm",
+        "name": "Do No Harm",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/do-no-harm.webp",
+        "thumbnail": "/assets/images/episodes/do-no-harm-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E40",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "wheels",
+        "name": "Wheels",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/wheels.webp",
+        "thumbnail": "/assets/images/episodes/wheels-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E41",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "high-strangeness",
+        "name": "High Strangeness",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/high-strangeness.webp",
+        "thumbnail": "/assets/images/episodes/high-strangeness-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E42",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "horses-and-ball",
+        "name": "Horse and Ball",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/horses.webp",
+        "thumbnail": "/assets/images/episodes/horses-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E43",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jelly-beans-have-power",
+        "name": "Jelly Beans Have Power",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/jelly-beans-have-power.webp",
+        "thumbnail": "/assets/images/episodes/jelly-beans-have-power-thumbnail.webp",
+        "release": "2016-01-28",
+        "episode": "S07E44",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-1-the-invitation",
+        "name": "Islands Part 1: The Invitation",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/islands-part-1-the-invitation.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-1-the-invitation-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E01",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-2-whipple-the-happy-dragon",
+        "name": "Islands Part 2: Whipple the Happy Dragon",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/islands-part-2-whipple-the-happy-dragon.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-2-whipple-the-happy-dragon-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E02",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-3-mysterious-island",
+        "name": "Islands Part 3: Mysterious Island",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/islands-part-3-mysterious-island.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-3-mysterious-island-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E03",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-4-imaginary-resources",
+        "name": "Islands Part 4: Imaginary Resources",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/islands-part-4-imaginary-resources.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-4-imaginary-resources-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E04",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-5-hide-and-seek",
+        "name": "Islands Part 5: Hide and Seek",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/islands-part-5-hide-and-seek.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-5-hide-and-seek-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E05",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-6-min-and-marty",
+        "name": "Islands Part 6: Min and Marty",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/islands-part-6-min-and-marty.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-6-min-and-marty-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E06",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-7-helpers",
+        "name": "Islands Part 7: Helpers",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/islands-part-7-helpers.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-7-helpers-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E07",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "islands-part-8-the-light-cloud",
+        "name": "Islands Part 8: The Light Cloud",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/islands-part-8-the-light-cloud.webp",
+        "thumbnail": "/assets/images/episodes/islands-part-8-the-light-cloud-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E08",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "orb",
+        "name": "Orb",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/orb.webp",
+        "thumbnail": "/assets/images/episodes/orb-thumbnail.webp",
+        "release": "2017-01-30",
+        "episode": "S08E09",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-1-skyhooks",
+        "name": "Elements Part 1: Skyhooks",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/elements-part-1-skyhooks.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-1-skyhooks-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E10",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-2-bespoken-for",
+        "name": "Elements Part 2: Bespoken For",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/elements-part-2-bespoken-for.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-2-bespoken-for-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E11",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-3-winter-light",
+        "name": "Elements Part 3: Winter Light",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/elements-part-3-winter-light.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-3-winter-light-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E12",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-4-cloudy",
+        "name": "Elements Part 4: Cloudy",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/elements-part-4-cloudy.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-4-cloudy-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E13",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-5-slime-central",
+        "name": "Elements Part 5: Slime Central",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/elements-part-5-slime-central.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-5-slime-central-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E14",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-6-happy-warrior",
+        "name": "Elements Part 6: Happy Warrior",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/elements-part-6-happy-warrior.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-6-happy-warrior-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E15",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-7-hero-heart",
+        "name": "Elements Part 7: Hero Heart",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/elements-part-7-hero-heart.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-7-hero-heart-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E16",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "elements-part-8-skyhooks-ii",
+        "name": "Elements Part 8: Skyhooks II",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/elements-part-8-skyhooks-ii.webp",
+        "thumbnail": "/assets/images/episodes/elements-part-8-skyhooks-ii-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E17",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "abstract",
+        "name": "Abstract",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/abstract.webp",
+        "thumbnail": "/assets/images/episodes/abstract-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E18",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "ketchup",
+        "name": "Ketchup",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/ketchup.webp",
+        "thumbnail": "/assets/images/episodes/ketchup-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E19",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "fionna-and-cake-and-fionna",
+        "name": "Fionna and Cake and Fionna",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/fionna-and-cake-and-fionna.webp",
+        "thumbnail": "/assets/images/episodes/fionna-and-cake-and-fionna-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E20",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "whispers",
+        "name": "Whispers",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/whispers.webp",
+        "thumbnail": "/assets/images/episodes/whispers-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E21",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "three-buckets",
+        "name": "Three Buckets",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/three-buckets.webp",
+        "thumbnail": "/assets/images/episodes/three-buckets-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E22",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-wild-hunt",
+        "name": "The Wild Hunt",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/the-wild-hunt.webp",
+        "thumbnail": "/assets/images/episodes/the-wild-hunt-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E23",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "always-bmo-closing",
+        "name": "Always BMO Closing",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/always-bmo-closing.webp",
+        "thumbnail": "/assets/images/episodes/always-bmo-closing-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E24",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "son-of-rap-bear",
+        "name": "Son of Rap Bear",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/son-of-rap-bear.webp",
+        "thumbnail": "/assets/images/episodes/son-of-rap-bear-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E25",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "bonnibel-bubblegum",
+        "name": "Bonnibel Bubblegum",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/bonnibel-bubblegum.webp",
+        "thumbnail": "/assets/images/episodes/bonnibel-bubblegum-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E26",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "seventeen",
+        "name": "Seventeen",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/seventeen.webp",
+        "thumbnail": "/assets/images/episodes/seventeen-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E27",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "ring-of-fire",
+        "name": "Ring of Fire",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/ring-of-fire.webp",
+        "thumbnail": "/assets/images/episodes/ring-of-fire-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E28",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "marcy-and-hunson",
+        "name": "Marcy & Hunson",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/marcy-and-hunson.webp",
+        "thumbnail": "/assets/images/episodes/marcy-and-hunson-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E29",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "the-first-investigation",
+        "name": "The First Investigation",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-first-investigation.webp",
+        "thumbnail": "/assets/images/episodes/the-first-investigation-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E30",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "blenanas",
+        "name": "Blenanas",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/blenanas.webp",
+        "thumbnail": "/assets/images/episodes/blenanas-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E31",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "jake-the-starchild",
+        "name": "Jake the Starchild",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/jake-the-starchild.webp",
+        "thumbnail": "/assets/images/episodes/jake-the-starchild-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E32",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "temple-of-mars",
+        "name": "Temple of Mars",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/temple-of-mars.webp",
+        "thumbnail": "/assets/images/episodes/temple-of-mars-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E33",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "gumbaldia",
+        "name": "Gumbaldia",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/gumbaldia.webp",
+        "thumbnail": "/assets/images/episodes/gumbaldia-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E34",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "diamonds-and-lemons",
+        "name": "Diamonds and Lemons",
+        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "image": "/assets/images/episodes/diamonds-and-lemons.webp",
+        "thumbnail": "/assets/images/episodes/diamonds-and-lemons-thumbnail.webp",
+        "release": "2017-04-24",
+        "episode": "S08E35",
+        "character_slugs": ["finn", "jake"]
+    },
+    {
+        "slug": "come-along-with-me",
+        "name": "Come Along With Me",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/come-along-with-me.webp",
+        "thumbnail": "/assets/images/episodes/come-along-with-me-thumbnail.webp",
+        "release": "2018-09-03",
+        "episode": "S10E13",
+        "character_slugs": ["finn", "jake"]
     }
 ]
