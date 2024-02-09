@@ -2,7 +2,7 @@
     {
         "slug": "slumber-party-panic",
         "name": "Slumber Party Panic",
-        "description": "Finn and Jake must save Princess Bubblegum from an impending zombie attack.",
+        "description": "Princess Bumblegum's latest experiment accidentally unleashes an undead horde upon the Candy Kingdom.",
         "image": "/assets/images/episodes/slumber-party-panic.webp",
         "thumbnail": "/assets/images/episodes/slumber-party-panic-thumbnail.webp",
         "release": "2010-04-05",
@@ -12,7 +12,7 @@
     {
         "slug": "trouble-in-lumpy-space",
         "name": "Trouble in Lumpy Space",
-        "description": "Finn and Jake venture into Lumpy Space to cure the Lumps from Jake's bite.",
+        "description": "Jake is bitten by Lumpy Space Princess and begins to transform into a Lumpy being. In order to find a cure, Finn is travels to Lumpy Space.",
         "image": "/assets/images/episodes/trouble-in-lumpy-space.webp",
         "thumbnail": "/assets/images/episodes/trouble-in-lumpy-space-thumbnail.webp",
         "release": "2010-04-12",
@@ -22,7 +22,7 @@
     {
         "slug": "prisoners-of-love",
         "name": "Prisoners of Love",
-        "description": "Finn and Jake go on a mission to rescue kidnapped princesses from the Ice King.",
+        "description": "After the Ice King kidnaps a large group of princesses, its up to Finn and Jake to free them.",
         "image": "/assets/images/episodes/prisoners-of-love.webp",
         "thumbnail": "/assets/images/episodes/prisoners-of-love-thumbnail.webp",
         "release": "2010-04-19",
@@ -32,7 +32,7 @@
     {
         "slug": "tree-trunks",
         "name": "Tree Trunks",
-        "description": "Finn and Jake go on a quest with Tree Trunks to find the legendary Crystal Gem Apple.",
+        "description": "Tree Trunks joins Finn and Jake on an quest, but finds her talents for adventuring leave something to be desired.",
         "image": "/assets/images/episodes/tree-trunks.webp",
         "thumbnail": "/assets/images/episodes/tree-trunks-thumbnail.webp",
         "release": "2010-04-26",
@@ -42,7 +42,7 @@
     {
         "slug": "the-enchiridion",
         "name": "The Enchiridion!",
-        "description": "Finn and Jake go on a quest for The Enchiridion, the hero's handbook.",
+        "description": "Princess Bubblegum sends Finn on his most challenging quest yet--to recover The Enchiridion, the hero's handbook.",
         "image": "/assets/images/episodes/the-enchiridion.webp",
         "thumbnail": "/assets/images/episodes/the-enchiridion-thumbnail.webp",
         "release": "2010-05-03",
@@ -52,7 +52,7 @@
     {
         "slug": "the-jiggler",
         "name": "The Jiggler",
-        "description": "Finn and Jake find a Jiggler and bring it back to its parents.",
+        "description": "After finding a Jiggler in the wild, Finn and Jake decide to adopt the funny creature as a pet.",
         "image": "/assets/images/episodes/the-jiggler.webp",
         "thumbnail": "/assets/images/episodes/the-jiggler-thumbnail.webp",
         "release": "2010-05-10",
@@ -62,7 +62,7 @@
     {
         "slug": "ricardio-the-heart-guy",
         "name": "Ricardio the Heart Guy",
-        "description": "Finn and Jake discover that the Ice King is the one who is kidnapping princesses.",
+        "description": "A new stranger arrives in the Candy Kingdom: a charismatic talking heart named Ricardio. He soon becomes very popular, except to Finn who believes he's hiding something.",
         "image": "/assets/images/episodes/ricardio-the-heart-guy.webp",
         "thumbnail": "/assets/images/episodes/ricardio-the-heart-guy-thumbnail.webp",
         "release": "2010-05-17",
@@ -72,7 +72,7 @@
     {
         "slug": "business-time",
         "name": "Business Time",
-        "description": "Finn and Jake try to help a businessman named Bufo.",
+        "description": "Finn and Jake discover a tribe of businessmen frozen in a block of ice and hire them to make adventuring easier.",
         "image": "/assets/images/episodes/business-time.webp",
         "thumbnail": "/assets/images/episodes/business-time-thumbnail.webp",
         "release": "2010-05-24",
@@ -82,7 +82,7 @@
     {
         "slug": "my-two-favorite-people",
         "name": "My Two Favorite People",
-        "description": "Jake tries to get Lady Rainicorn and Finn to become friends.",
+        "description": "Jake tries hanging out with both his best friend, Finn, and his girlfriend, Lady Rainicorn, at the same time. But soon Jake becomes jealous when Finn and Lady seem too friendly.",
         "image": "/assets/images/episodes/my-two-favorite-people.webp",
         "thumbnail": "/assets/images/episodes/my-two-favorite-people-thumbnail.webp",
         "release": "2010-09-27",
@@ -92,7 +92,7 @@
     {
         "slug": "memories-of-boom-boom-mountain",
         "name": "Memories of Boom Boom Mountain",
-        "description": "Finn helps a tribe of homeless people.",
+        "description": "While having trouble solving the contradictory problems of the residents of a mountain village, Finn recalls where he found the desire to help people.",
         "image": "/assets/images/episodes/memories-of-boom-boom-mountain.webp",
         "thumbnail": "/assets/images/episodes/memories-of-boom-boom-mountain-thumbnail.webp",
         "release": "2010-10-04",
@@ -102,7 +102,7 @@
     {
         "slug": "wizard",
         "name": "Wizard",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "Finn and Jake discover a secret tribe of wizards and take magic lessons for a price they aren't prepared to pay.",
         "image": "/assets/images/episodes/wizard.webp",
         "thumbnail": "/assets/images/episodes/wizard-thumbnail.webp",
         "release": "2010-10-11",
@@ -112,7 +112,7 @@
     {
         "slug": "evicted",
         "name": "Evicted!",
-        "description": "Finn and Jake are evicted from their treehouse and set out to find a new home.",
+        "description": "After Marceline the Vampire Queen visits Finn and Jake at their tree fort she informs them that she is moving in and kicking them out.",
         "image": "/assets/images/episodes/evicted.webp",
         "thumbnail": "/assets/images/episodes/evicted-thumbnail.webp",
         "release": "2010-10-18",
@@ -122,7 +122,7 @@
     {
         "slug": "city-of-thieves",
         "name": "City of Thieves",
-        "description": "Finn and Jake are caught in a web of thievery and are at the mercy of the city's criminals.",
+        "description": "A mission leads Jake into a city where everyone is a thief and the chance to be corrupted is incredibly strong.",
         "image": "/assets/images/episodes/city-of-thieves.webp",
         "thumbnail": "/assets/images/episodes/city-of-thieves-thumbnail.webp",
         "release": "2010-10-25",
@@ -132,7 +132,7 @@
     {
         "slug": "the-witchs-garden",
         "name": "The Witch's Garden",
-        "description": "Finn and Jake are sent to the Witch's Garden by a homeless",
+        "description": "A witch steals Jake's shape-shifting powers, but his ego makes getting them back very difficult.",
         "image": "/assets/images/episodes/the-witchs-garden.webp",
         "thumbnail": "/assets/images/episodes/the-witchs-garden-thumbnail.webp",
         "release": "2010-11-01",
@@ -142,7 +142,7 @@
     {
         "slug": "what-is-life",
         "name": "What is Life?",
-        "description": "Finn builds a Never-Ending Pie-Throwing Robot for Jake, but the robot starts to become evil.",
+        "description": "Finn creates a robot to continuously throw pies at Jake but unexpectedly imbues it with a soul.",
         "image": "/assets/images/episodes/what-is-life.webp",
         "thumbnail": "/assets/images/episodes/what-is-life-thumbnail.webp",
         "release": "2010-11-08",
@@ -152,7 +152,7 @@
     {
         "slug": "ocean-of-fear",
         "name": "Ocean of Fear",
-        "description": "Finn and Jake are terrified by the Oceans of the Land of Ooo.",
+        "description": "Finn must overcome his fear of the ocean.",
         "image": "/assets/images/episodes/ocean-of-fear.webp",
         "thumbnail": "/assets/images/episodes/ocean-of-fear-thumbnail.webp",
         "release": "2010-11-15",
@@ -162,7 +162,7 @@
     {
         "slug": "when-wedding-bells-thaw",
         "name": "When Wedding Bells Thaw",
-        "description": "Finn and Jake are invited to the Ice King's wedding.",
+        "description": "The Ice King announces that he is engaged and to the shock of Finn and Jake it seems the bride is actually willing. But will the Ice King give up his princess kidnapping ways?",
         "image": "/assets/images/episodes/when-wedding-bells-thaw.webp",
         "thumbnail": "/assets/images/episodes/when-wedding-bells-thaw-thumbnail.webp",
         "release": "2010-11-22",
@@ -172,7 +172,7 @@
     {
         "slug": "dungeon",
         "name": "Dungeon",
-        "description": "Finn and Jake are given one of the highest responsibilities: to guard the magical Dungeon.",
+        "description": "Finn adventures into a forbidden dungeon, against the wishes of Princess Bumblegum and Jake, and finds more than he bargained for.",
         "image": "/assets/images/episodes/dungeon.webp",
         "thumbnail": "/assets/images/episodes/dungeon-thumbnail.webp",
         "release": "2010-11-29",
@@ -182,7 +182,7 @@
     {
         "slug": "the-duke",
         "name": "The Duke",
-        "description": "Finn and Jake are outsmarted by a rogue cookie.",
+        "description": "An accident in the Candy Kingdom which Finn and Jake cause is blamed on the Duke of Nuts. Finn and Jake, however, find admitting the truth to be harder and harder as time passes.",
         "image": "/assets/images/episodes/the-duke.webp",
         "thumbnail": "/assets/images/episodes/the-duke-thumbnail.webp",
         "release": "2010-12-06",
@@ -192,7 +192,7 @@
     {
         "slug": "freak-city",
         "name": "Freak City",
-        "description": "Finn and Jake are turned into criminals by the magic man.",
+        "description": "A trickster turns Finn into a giant foot.",
         "image": "/assets/images/episodes/freak-city.webp",
         "thumbnail": "/assets/images/episodes/freak-city-thumbnail.webp",
         "release": "2010-12-13",
@@ -202,7 +202,7 @@
     {
         "slug": "donny",
         "name": "Donny",
-        "description": "Finn and Jake are called to help fight off a ghost that is causing trouble in a small village.",
+        "description": "Finn and Jake try to reform a bullying ogre, but realize that their good deed has unexpected consequences.",
         "image": "/assets/images/episodes/donny.webp",
         "thumbnail": "/assets/images/episodes/donny-thumbnail.webp",
         "release": "2010-12-20",
@@ -212,7 +212,7 @@
     {
         "slug": "henchman",
         "name": "Henchman",
-        "description": "Finn takes the place of Marceline's henchman, but finds it hard to obey her seemingly evil commands.",
+        "description": "Marceline the Vampire Queen tricks Finn into swearing allegiance to her.",
         "image": "/assets/images/episodes/henchman.webp",
         "thumbnail": "/assets/images/episodes/henchman-thumbnail.webp",
         "release": "2010-12-27",
@@ -222,7 +222,7 @@
     {
         "slug": "rainy-day-daydream",
         "name": "Rainy Day Daydream",
-        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "description": "Jake's imagination literally runs wild, coming to life and bringing many dangers into the tree house.",
         "image": "/assets/images/episodes/rainy-day-daydream.webp",
         "thumbnail": "/assets/images/episodes/rainy-day-daydream-thumbnail.webp",
         "release": "2011-01-03",
@@ -232,7 +232,7 @@
     {
         "slug": "what-have-you-done",
         "name": "What Have You Done?",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "After being told to arrest the Ice King, Finn and Jake face an ethical quandary when they realize the villain has not actually committed any recent crimes.",
         "image": "/assets/images/episodes/what-have-you-done.webp",
         "thumbnail": "/assets/images/episodes/what-have-you-done-thumbnail.webp",
         "release": "2011-01-10",
@@ -242,7 +242,7 @@
     {
         "slug": "his-hero",
         "name": "His Hero",
-        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "description": "Finn meets his hero, the great warrior Billy, who is not everything Finn expected him to be.",
         "image": "/assets/images/episodes/his-hero.webp",
         "thumbnail": "/assets/images/episodes/his-hero-thumbnail.webp",
         "release": "2011-01-17",
@@ -252,7 +252,7 @@
     {
         "slug": "gut-grinder",
         "name": "Gut Grinder",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "Jake is accused of being a horrible monster that has been terrorizing the locals. Soon, Jake himself is unsure if he is or isn't the monster.",
         "image": "/assets/images/episodes/gut-grinder.webp",
         "thumbnail": "/assets/images/episodes/gut-grinder-thumbnail.webp",
         "release": "2011-01-24",
@@ -272,7 +272,7 @@
     {
         "slug": "the-eyes",
         "name": "The Eyes",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-eyes.webp",
         "thumbnail": "/assets/images/episodes/the-eyes-thumbnail.webp",
         "release": "2011-02-21",
@@ -292,7 +292,7 @@
     {
         "slug": "blood-under-the-skin",
         "name": "Blood Under the Skin",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/blood-under-the-skin.webp",
         "thumbnail": "/assets/images/episodes/blood-under-the-skin-thumbnail.webp",
         "release": "2011-03-07",
@@ -312,7 +312,7 @@
     {
         "slug": "slow-love",
         "name": "Slow Love",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/slow-love.webp",
         "thumbnail": "/assets/images/episodes/slow-love-thumbnail.webp",
         "release": "2011-03-21",
@@ -332,7 +332,7 @@
     {
         "slug": "crystals-have-power",
         "name": "Crystals Have Power",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/crystals-have-power.webp",
         "thumbnail": "/assets/images/episodes/crystals-have-power-thumbnail.webp",
         "release": "2011-04-04",
@@ -352,7 +352,7 @@
     {
         "slug": "to-cut-a-womans-hair",
         "name": "To cut a woman's hair",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",        
+        "description": "generic description",
         "image": "/assets/images/episodes/to-cut-a-womans-hair.webp",
         "thumbnail": "/assets/images/episodes/to-cut-a-womans-hair-thumbnail.webp",
         "release": "2011-04-18",
@@ -372,7 +372,7 @@
     {
         "slug": "her-parents",
         "name": "Her Parents",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/her-parents.webp",
         "thumbnail": "/assets/images/episodes/her-parents-thumbnail.webp",
         "release": "2011-05-02",
@@ -392,7 +392,7 @@
     {
         "slug": "the-silent-king",
         "name": "The Silent King",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-silent-king.webp",
         "thumbnail": "/assets/images/episodes/the-silent-king-thumbnail.webp",
         "release": "2011-05-16",
@@ -412,7 +412,7 @@
     {
         "slug": "guardians-of-sunshine",
         "name": "Guardians of Sunshine",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/guardians-of-sunshine.webp",
         "thumbnail": "/assets/images/episodes/guardians-of-sunshine-thumbnail.webp",
         "release": "2011-05-30",
@@ -432,7 +432,7 @@
     {
         "slug": "susans-strong",
         "name": "Susan Strong",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/susans-strong.webp",
         "thumbnail": "/assets/images/episodes/susans-strong-thumbnail.webp",
         "release": "2011-06-13",
@@ -452,7 +452,7 @@
     {
         "slug": "go-with-me",
         "name": "Go With Me",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/go-with-me.webp",
         "thumbnail": "/assets/images/episodes/go-with-me-thumbnail.webp",
         "release": "2011-06-27",
@@ -472,7 +472,7 @@
     {
         "slug": "the-limit",
         "name": "The Limit",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-limit.webp",
         "thumbnail": "/assets/images/episodes/the-limit-thumbnail.webp",
         "release": "2011-07-18",
@@ -492,7 +492,7 @@
     {
         "slug": "mortal-folly",
         "name": "Mortal Folly",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/mortal-folly.webp",
         "thumbnail": "/assets/images/episodes/mortal-folly-thumbnail.webp",
         "release": "2011-08-01",
@@ -512,7 +512,7 @@
     {
         "slug": "heat-signature",
         "name": "Heat Signature",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/heat-signature.webp",
         "thumbnail": "/assets/images/episodes/heat-signature-thumbnail.webp",
         "release": "2011-08-15",
@@ -532,7 +532,7 @@
     {
         "slug": "morituri-te-salutamus",
         "name": "Morituri te Salutamus",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/morituri-te-salutamus.webp",
         "thumbnail": "/assets/images/episodes/morituri-te-salutamus-thumbnail.webp",
         "release": "2011-08-29",
@@ -552,7 +552,7 @@
     {
         "slug": "hitman",
         "name": "Hitman",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/hitman.webp",
         "thumbnail": "/assets/images/episodes/hitman-thumbnail.webp",
         "release": "2011-09-19",
@@ -572,7 +572,7 @@
     {
         "slug": "the-monster",
         "name": "The Monster",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-monster.webp",
         "thumbnail": "/assets/images/episodes/the-monster-thumbnail.webp",
         "release": "2011-10-03",
@@ -592,7 +592,7 @@
     {
         "slug": "wizard-battle",
         "name": "Wizard Battle",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/wizard-battle.webp",
         "thumbnail": "/assets/images/episodes/wizard-battle-thumbnail.webp",
         "release": "2011-10-17",
@@ -612,7 +612,7 @@
     {
         "slug": "what-was-missing",
         "name": "What Was Missing",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/what-was-missing.webp",
         "thumbnail": "/assets/images/episodes/what-was-missing-thumbnail.webp",
         "release": "2011-10-31",
@@ -632,7 +632,7 @@
     {
         "slug": "the-creeps",
         "name": "The Creeps",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-creeps.webp",
         "thumbnail": "/assets/images/episodes/the-creeps-thumbnail.webp",
         "release": "2011-11-14",
@@ -652,7 +652,7 @@
     {
         "slug": "beautopia",
         "name": "Beautopia",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/beautopia.webp",
         "thumbnail": "/assets/images/episodes/beautopia-thumbnail.webp",
         "release": "2011-11-28",
@@ -672,7 +672,7 @@
     {
         "slug": "jake-vs-me-mow",
         "name": "Jake vs. Me-Mow",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/jake-vs-me-mow.webp",
         "thumbnail": "/assets/images/episodes/jake-vs-me-mow-thumbnail.webp",
         "release": "2012-01-09",
@@ -692,7 +692,7 @@
     {
         "slug": "the-new-frontier",
         "name": "The New Frontier",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-new-frontier.webp",
         "thumbnail": "/assets/images/episodes/the-new-frontier-thumbnail.webp",
         "release": "2012-01-23",
@@ -712,7 +712,7 @@
     {
         "slug": "holly-jolly-secrets-part-ii",
         "name": "Holly Jolly Secrets, Part II",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/holly-jolly-secrets-part-ii.webp",
         "thumbnail": "/assets/images/episodes/holly-jolly-secrets-part-ii-thumbnail.webp",
         "release": "2011-12-05",
@@ -732,7 +732,7 @@
     {
         "slug": "paper-pete",
         "name": "Paper Pete",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/paper-pete.webp",
         "thumbnail": "/assets/images/episodes/paper-pete-thumbnail.webp",
         "release": "2012-02-06",
@@ -752,7 +752,7 @@
     {
         "slug": "ghost-princess",
         "name": "Ghost Princess",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/ghost-princess.webp",
         "thumbnail": "/assets/images/episodes/ghost-princess-thumbnail.webp",
         "release": "2012-02-20",
@@ -772,7 +772,7 @@
     {
         "slug": "incendium",
         "name": "Incendium",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/incendium.webp",
         "thumbnail": "/assets/images/episodes/incendium-thumbnail.webp",
         "release": "2012-02-13",
@@ -792,7 +792,7 @@
     {
         "slug": "five-short-graybles",
         "name": "Five Short Graybles",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/five-short-graybles.webp",
         "thumbnail": "/assets/images/episodes/five-short-graybles-thumbnail.webp",
         "release": "2012-08-06",
@@ -812,7 +812,7 @@
     {
         "slug": "dream-of-love",
         "name": "Dream of Love",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/dream-of-love.webp",
         "thumbnail": "/assets/images/episodes/dream-of-love-thumbnail.webp",
         "release": "2012-08-20",
@@ -832,7 +832,7 @@
     {
         "slug": "daddy-s-little-monster",
         "name": "Daddy's Little Monster",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/daddy-s-little-monster.webp",
         "thumbnail": "/assets/images/episodes/daddy-s-little-monster-thumbnail.webp",
         "release": "2012-09-03",
@@ -852,7 +852,7 @@
     {
         "slug": "hug-wolf",
         "name": "Hug Wolf",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/hug-wolf.webp",
         "thumbnail": "/assets/images/episodes/hug-wolf-thumbnail.webp",
         "release": "2012-09-17",
@@ -872,7 +872,7 @@
     {
         "slug": "goliad",
         "name": "Goliad",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/goliad.webp",
         "thumbnail": "/assets/images/episodes/goliad-thumbnail.webp",
         "release": "2012-10-01",
@@ -892,7 +892,7 @@
     {
         "slug": "gotcha",
         "name": "Gotcha!",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/gotcha.webp",
         "thumbnail": "/assets/images/episodes/gotcha-thumbnail.webp",
         "release": "2012-10-15",
@@ -912,7 +912,7 @@
     {
         "slug": "card-wars",
         "name": "Card Wars",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/card-wars.webp",
         "thumbnail": "/assets/images/episodes/card-wars-thumbnail.webp",
         "release": "2012-10-29",
@@ -932,7 +932,7 @@
     {
         "slug": "burning-low",
         "name": "Burning Low",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/burning-low.webp",
         "thumbnail": "/assets/images/episodes/burning-low-thumbnail.webp",
         "release": "2012-07-30",
@@ -952,7 +952,7 @@
     {
         "slug": "king-worm",
         "name": "King Worm",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/king-worm.webp",
         "thumbnail": "/assets/images/episodes/king-worm-thumbnail.webp",
         "release": "2012-11-26",
@@ -972,7 +972,7 @@
     {
         "slug": "you-made-me",
         "name": "You Made Me",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/you-made-me.webp",
         "thumbnail": "/assets/images/episodes/you-made-me-thumbnail.webp",
         "release": "2012-12-10",
@@ -992,7 +992,7 @@
     {
         "slug": "ignition-point",
         "name": "Ignition Point",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/ignition-point.webp",
         "thumbnail": "/assets/images/episodes/ignition-point-thumbnail.webp",
         "release": "2013-01-07",
@@ -1012,7 +1012,7 @@
     {
         "slug": "reign-of-gunters",
         "name": "Reign of Gunters",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/reign-of-gunters.webp",
         "thumbnail": "/assets/images/episodes/reign-of-gunters-thumbnail.webp",
         "release": "2013-01-21",
@@ -1032,7 +1032,7 @@
     {
         "slug": "the-litch",
         "name": "The Lich",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-litch.webp",
         "thumbnail": "/assets/images/episodes/the-litch-thumbnail.webp",
         "release": "2013-10-22",
@@ -1052,7 +1052,7 @@
     {
         "slug": "jake-the-dog",
         "name": "Jake the Dog",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/jake-the-dog.webp",
         "thumbnail": "/assets/images/episodes/jake-the-dog-thumbnail.webp",
         "release": "2012-12-03",
@@ -1072,7 +1072,7 @@
     {
         "slug": "up-a-tree",
         "name": "Up a Tree",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/up-a-tree.webp",
         "thumbnail": "/assets/images/episodes/up-a-tree-thumbnail.webp",
         "release": "2012-12-17",
@@ -1092,7 +1092,7 @@
     {
         "slug": "jake-the-dad",
         "name": "Jake the Dad",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/jake-the-dad.webp",
         "thumbnail": "/assets/images/episodes/jake-the-dad-thumbnail.webp",
         "release": "2013-01-21",
@@ -1112,7 +1112,7 @@
     {
         "slug": "mystery-dungeon",
         "name": "Mystery Dungeon",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/mystery-dungeon.webp",
         "thumbnail": "/assets/images/episodes/mystery-dungeon-thumbnail.webp",
         "release": "2013-02-04",
@@ -1132,7 +1132,7 @@
     {
         "slug": "little-dude",
         "name": "Little Dude",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/little-dude.webp",
         "thumbnail": "/assets/images/episodes/little-dude-thumbnail.webp",
         "release": "2013-02-18",
@@ -1141,7 +1141,7 @@
     },
     {
         "slug": "bad-little-boy",
-        "name" : "Bad Little",
+        "name": "Bad Little",
         "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
         "image": "/assets/images/episodes/bad-little-boy.webp",
         "thumbnail": "/assets/images/episodes/bad-little-boy-thumbnail.webp",
@@ -1152,7 +1152,7 @@
     {
         "slug": "vault-of-bones",
         "name": "Vault of Bones",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/vault-of-bones.webp",
         "thumbnail": "/assets/images/episodes/vault-of-bones-thumbnail.webp",
         "release": "2013-02-25",
@@ -1161,7 +1161,7 @@
     },
     {
         "slug": "the-great-bird-man",
-        "name" : "The Great Bird Human",
+        "name": "The Great Bird Human",
         "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
         "image": "/assets/images/episodes/the-great-bird.webp",
         "thumbnail": "/assets/images/episodes/the-great-bird-thumbnail.webp",
@@ -1172,7 +1172,7 @@
     {
         "slug": "simon-and-marce-line",
         "name": "Simon and Marcy",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/simon-and-marce-line.webp",
         "thumbnail": "/assets/images/episodes/simon-and-marce-line-thumbnail.webp",
         "release": "2013-03-25",
@@ -1192,7 +1192,7 @@
     {
         "slug": "puhoy",
         "name": "Puhoy",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/puhoy.webp",
         "thumbnail": "/assets/images/episodes/puhoy-thumbnail.webp",
         "release": "2013-04-08",
@@ -1212,7 +1212,7 @@
     {
         "slug": "princess-potluck",
         "name": "Princess Potluck",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/princess-potluck.webp",
         "thumbnail": "/assets/images/episodes/princess-potluck-thumbnail.webp",
         "release": "2013-04-22",
@@ -1232,7 +1232,7 @@
     {
         "slug": "shh",
         "name": "Shh!",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/shh.webp",
         "thumbnail": "/assets/images/episodes/shh-thumbnail.webp",
         "release": "2013-05-06",
@@ -1252,7 +1252,7 @@
     {
         "slug": "the-party-s-over-isla-de-senorita",
         "name": "The Party's Over, Isla de Señorita",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-party-s-over-isla-de-senorita.webp",
         "thumbnail": "/assets/images/episodes/the-party-s-over-isla-de-senorita-thumbnail.webp",
         "release": "2013-05-20",
@@ -1272,7 +1272,7 @@
     {
         "slug": "another-five-more-short-graybles",
         "name": "Another Five More Short Graybles",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/another-five-more-short-graybles.webp",
         "thumbnail": "/assets/images/episodes/another-five-more-short-graybles-thumbnail.webp",
         "release": "2013-06-03",
@@ -1292,7 +1292,7 @@
     {
         "slug": "wizards-only-fools",
         "name": "Wizards Only, Fools",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/wizards-only-fools.webp",
         "thumbnail": "/assets/images/episodes/wizards-only-fools-thumbnail.webp",
         "release": "2013-06-17",
@@ -1312,7 +1312,7 @@
     {
         "slug": "be-more",
         "name": "Be More",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/be-more.webp",
         "thumbnail": "/assets/images/episodes/be-more-thumbnail.webp",
         "release": "2013-07-01",
@@ -1332,7 +1332,7 @@
     {
         "slug": "frost-and-fire",
         "name": "Frost & Fire",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/frost-and-fire.webp",
         "thumbnail": "/assets/images/episodes/frost-and-fire-thumbnail.webp",
         "release": "2013-07-22",
@@ -1352,7 +1352,7 @@
     {
         "slug": "earth-and-water",
         "name": "Earth & Water",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/earth-and-water.webp",
         "thumbnail": "/assets/images/episodes/earth-and-water-thumbnail.webp",
         "release": "2013-08-05",
@@ -1372,7 +1372,7 @@
     {
         "slug": "the-vault",
         "name": "The Vault",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-vault.webp",
         "thumbnail": "/assets/images/episodes/the-vault-thumbnail.webp",
         "release": "2013-08-19",
@@ -1392,7 +1392,7 @@
     {
         "slug": "dungeon-train",
         "name": "Dungeon Train",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/dungeon-train.webp",
         "thumbnail": "/assets/images/episodes/dungeon-train-thumbnail.webp",
         "release": "2013-09-02",
@@ -1412,7 +1412,7 @@
     {
         "slug": "red-starved",
         "name": "Red Starved",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/red-starved.webp",
         "thumbnail": "/assets/images/episodes/red-starved-thumbnail.webp",
         "release": "2013-09-16",
@@ -1432,7 +1432,7 @@
     {
         "slug": "play-date",
         "name": "Play Date",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/play-date.webp",
         "thumbnail": "/assets/images/episodes/play-date-thumbnail.webp",
         "release": "2013-09-30",
@@ -1452,7 +1452,7 @@
     {
         "slug": "james",
         "name": "James",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/james.webp",
         "thumbnail": "/assets/images/episodes/james-thumbnail.webp",
         "release": "2013-10-14",
@@ -1472,7 +1472,7 @@
     {
         "slug": "apple-wedding",
         "name": "Apple Wedding",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/apple-wedding.webp",
         "thumbnail": "/assets/images/episodes/apple-wedding-thumbnail.webp",
         "release": "2013-10-28",
@@ -1492,7 +1492,7 @@
     {
         "slug": "rattleballs",
         "name": "Rattleballs",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/rattleballs.webp",
         "thumbnail": "/assets/images/episodes/rattleballs-thumbnail.webp",
         "release": "2013-11-11",
@@ -1512,7 +1512,7 @@
     {
         "slug": "betty",
         "name": "Betty",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/betty.webp",
         "thumbnail": "/assets/images/episodes/betty-thumbnail.webp",
         "release": "2013-11-25",
@@ -1532,7 +1532,7 @@
     {
         "slug": "lemonhope-part-one",
         "name": "Lemonhope Part One",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/lemonhope-part-one.webp",
         "thumbnail": "/assets/images/episodes/lemonhope-part-one-thumbnail.webp",
         "release": "2013-12-02",
@@ -1552,7 +1552,7 @@
     {
         "slug": "billy-s-bucket-list",
         "name": "Billy's Bucket List",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/billy-s-bucket-list.webp",
         "thumbnail": "/assets/images/episodes/billy-s-bucket-list-thumbnail.webp",
         "release": "2013-12-02",
@@ -1572,7 +1572,7 @@
     {
         "slug": "escape-from-the-citadel",
         "name": "Escape from the Citadel",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/escape-from-the-citadel.webp",
         "thumbnail": "/assets/images/episodes/escape-from-the-citadel-thumbnail.webp",
         "release": "2014-04-21",
@@ -1592,7 +1592,7 @@
     {
         "slug": "the-tower",
         "name": "The Tower",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-tower.webp",
         "thumbnail": "/assets/images/episodes/the-tower-thumbnail.webp",
         "release": "2014-05-05",
@@ -1612,7 +1612,7 @@
     {
         "slug": "breezy",
         "name": "Breezy",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/breezy.webp",
         "thumbnail": "/assets/images/episodes/breezy-thumbnail.webp",
         "release": "2014-06-05",
@@ -1632,7 +1632,7 @@
     {
         "slug": "furniture-and-meat",
         "name": "Furniture & Meat",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/furniture-and-meat.webp",
         "thumbnail": "/assets/images/episodes/furniture-and-meat-thumbnail.webp",
         "release": "2014-06-19",
@@ -1652,7 +1652,7 @@
     {
         "slug": "something-big",
         "name": "Something Big",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/something-big.webp",
         "thumbnail": "/assets/images/episodes/something-big-thumbnail.webp",
         "release": "2014-07-03",
@@ -1672,7 +1672,7 @@
     {
         "slug": "ocarina",
         "name": "Ocarina",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/ocarina.webp",
         "thumbnail": "/assets/images/episodes/ocarina-thumbnail.webp",
         "release": "2014-07-17",
@@ -1693,7 +1693,7 @@
     {
         "slug": "princess-day",
         "name": "Princess Day",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/princess-day.webp",
         "thumbnail": "/assets/images/episodes/princess-day-thumbnail.webp",
         "release": "2014-07-31",
@@ -1713,7 +1713,7 @@
     {
         "slug": "joshua-and-margaret-investigations",
         "name": "Joshua and Margaret Investigations",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/joshua-and-margaret-investigations.webp",
         "thumbnail": "/assets/images/episodes/joshua-and-margaret-investigations-thumbnail.webp",
         "release": "2014-08-14",
@@ -1734,7 +1734,7 @@
     {
         "slug": "everything-s-jake",
         "name": "Everything's Jake",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/everything-s-jake.webp",
         "thumbnail": "/assets/images/episodes/everything-s-jake-thumbnail.webp",
         "release": "2014-08-28",
@@ -1754,7 +1754,7 @@
     {
         "slug": "jake-the-brick",
         "name": "Jake the Brick",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/jake-the-brick.webp",
         "thumbnail": "/assets/images/episodes/jake-the-brick-thumbnail.webp",
         "release": "2014-09-11",
@@ -1774,7 +1774,7 @@
     {
         "slug": "the-cooler",
         "name": "The Cooler",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-cooler.webp",
         "thumbnail": "/assets/images/episodes/the-cooler-thumbnail.webp",
         "release": "2014-09-25",
@@ -1794,7 +1794,7 @@
     {
         "slug": "evergreen",
         "name": "Evergreen",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/evergreen.webp",
         "thumbnail": "/assets/images/episodes/evergreen-thumbnail.webp",
         "release": "2014-10-16",
@@ -1814,7 +1814,7 @@
     {
         "slug": "gold-stars",
         "name": "Gold Stars",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/gold-stars.webp",
         "thumbnail": "/assets/images/episodes/gold-stars-thumbnail.webp",
         "release": "2014-10-30",
@@ -1834,7 +1834,7 @@
     {
         "slug": "the-mountain",
         "name": "The Mountain",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-mountain.webp",
         "thumbnail": "/assets/images/episodes/the-mountain-thumbnail.webp",
         "release": "2014-11-13",
@@ -1854,7 +1854,7 @@
     {
         "slug": "the-diary",
         "name": "The Diary",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-diary.webp",
         "thumbnail": "/assets/images/episodes/the-diary-thumbnail.webp",
         "release": "2014-11-26",
@@ -1874,7 +1874,7 @@
     {
         "slug": "friends-forever",
         "name": "Friends Forever",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/friends-forever.webp",
         "thumbnail": "/assets/images/episodes/friends-forever-thumbnail.webp",
         "release": "2014-12-10",
@@ -1894,7 +1894,7 @@
     {
         "slug": "chips-and-ice-cream",
         "name": "Chips and Ice Cream",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/chips-and-ice-cream.webp",
         "thumbnail": "/assets/images/episodes/chips-and-ice-cream-thumbnail.webp",
         "release": "2015-01-15",
@@ -1914,7 +1914,7 @@
     {
         "slug": "hoots",
         "name": "Hoots",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/hoots.webp",
         "thumbnail": "/assets/images/episodes/hoots-thumbnail.webp",
         "release": "2015-01-29",
@@ -1934,7 +1934,7 @@
     {
         "slug": "you-forgot-your-floating-tent",
         "name": "You Forgot Your Floatin' Tent",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/you-forgot-your-floating-tent.webp",
         "thumbnail": "/assets/images/episodes/you-forgot-your-floating-tent-thumbnail.webp",
         "release": "2015-02-12",
@@ -1954,7 +1954,7 @@
     {
         "slug": "orgalorg",
         "name": "Orgalorg",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/orgalorg.webp",
         "thumbnail": "/assets/images/episodes/orgalorg-thumbnail.webp",
         "release": "2015-02-26",
@@ -1974,7 +1974,7 @@
     {
         "slug": "hot-diggity-doom",
         "name": "Hot Diggity Doom",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/hot-diggity-doom.webp",
         "thumbnail": "/assets/images/episodes/hot-diggity-doom-thumbnail.webp",
         "release": "2015-03-12",
@@ -1994,7 +1994,7 @@
     {
         "slug": "bonnibel-and-neddy",
         "name": "Bonnibel and Neddy",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/bonnibel-and-neddy.webp",
         "thumbnail": "/assets/images/episodes/bonnibel-and-neddy-thumbnail.webp",
         "release": "2015-07-06",
@@ -2014,7 +2014,7 @@
     {
         "slug": "cherry-cream-soda",
         "name": "Cherry Cream Soda",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/cherry-cream-soda.webp",
         "thumbnail": "/assets/images/episodes/cherry-cream-soda-thumbnail.webp",
         "release": "2015-07-20",
@@ -2034,7 +2034,7 @@
     {
         "slug": "football",
         "name": "Football",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/football.webp",
         "thumbnail": "/assets/images/episodes/football-thumbnail.webp",
         "release": "2015-08-03",
@@ -2054,7 +2054,7 @@
     {
         "slug": "stakes-part-2-everything-stays",
         "name": "Stakes Part 2: Everything Stays",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/stakes-part-2-everything-stays.webp",
         "thumbnail": "/assets/images/episodes/stakes-part-2-everything-stays-thumbnail.webp",
         "release": "2015-11-16",
@@ -2074,7 +2074,7 @@
     {
         "slug": "stakes-part-4-the-empress-eyes",
         "name": "Stakes Part 4: The Empress' Eyes",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/stakes-part-4-the-empress-eyes.webp",
         "thumbnail": "/assets/images/episodes/stakes-part-4-the-empress-eyes-thumbnail.webp",
         "release": "2015-11-18",
@@ -2094,7 +2094,7 @@
     {
         "slug": "stakes-part-6-take-her-back",
         "name": "Stakes Part 6: Take Her Back",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/stakes-part-6-take-her-back.webp",
         "thumbnail": "/assets/images/episodes/stakes-part-6-take-her-back-thumbnail.webp",
         "release": "2015-11-20",
@@ -2114,7 +2114,7 @@
     {
         "slug": "stakes-part-8-the-dark-cloud",
         "name": "Stakes Part 8: The Dark Cloud",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/stakes-part-8-the-dark-cloud.webp",
         "thumbnail": "/assets/images/episodes/stakes-part-8-the-dark-cloud-thumbnail.webp",
         "release": "2015-11-20",
@@ -2131,14 +2131,26 @@
         "episode": "S07E14",
         "character_slugs": ["finn", "jake"]
     },
+
+    {
+        "slug": "the-more-you-moe-the-moe-you-know-part-2",
+        "name": "The More You Moe, the Moe You Know Part 2",
+        "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
+        "image": "/assets/images/episodes/the-more-you-moe-the-moe-you-know-part-2.webp",
+        "thumbnail": "/assets/images/episodes/the-more-you-moe-the-moe-you-know-part-2-thumbnail.webp",
+        "release": "2015-11-23",
+        "episode": "S07E15",
+        "character_slugs": ["finn", "jake"]
+    },
+
     {
         "slug": "summer-showers",
         "name": "Summer Showers",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/summer-showers.webp",
         "thumbnail": "/assets/images/episodes/summer-showers-thumbnail.webp",
         "release": "2015-11-24",
-        "episode": "S07E15",
+        "episode": "S07E16",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2148,37 +2160,37 @@
         "image": "/assets/images/episodes/angel-face.webp",
         "thumbnail": "/assets/images/episodes/angel-face-thumbnail.webp",
         "release": "2015-11-25",
-        "episode": "S07E16",
+        "episode": "S07E17",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "president-porpoise-is-missing",
         "name": "President Porpoise is Missing!",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/president-porpoise-is-missing.webp",
         "thumbnail": "/assets/images/episodes/president-porpoise-is-missing-thumbnail.webp",
         "release": "2015-11-30",
-        "episode": "S07E17",
+        "episode": "S07E18",
         "character_slugs": ["finn", "jake"]
     },
-{
+    {
         "slug": "blank-eyed-girl",
         "name": "Blank Eyed Girl",
         "description": "Finn and Jake are given a quest by Princess Bubblegum to stop a monster.",
         "image": "/assets/images/episodes/blank-eyed-girl.webp",
         "thumbnail": "/assets/images/episodes/blank-eyed-girl-thumbnail.webp",
         "release": "2015-12-01",
-        "episode": "S07E18",
+        "episode": "S07E19",
         "character_slugs": ["finn", "jake"]
     },
     {
-        "slug": "bad-juice",
+        "slug": "bad-jubies",
         "name": "Bad Jubies",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
-        "image": "/assets/images/episodes/bad-juice.webp",
-        "thumbnail": "/assets/images/episodes/bad-juice-thumbnail.webp",
+        "description": "generic description",
+        "image": "/assets/images/episodes/bad-jubies.webp",
+        "thumbnail": "/assets/images/episodes/bad-jubies-thumbnail.webp",
         "release": "2015-12-02",
-        "episode": "S07E19",
+        "episode": "S07E20",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2188,17 +2200,17 @@
         "image": "/assets/images/episodes/king-s-roke.webp",
         "thumbnail": "/assets/images/episodes/king-s-roke-thumbnail.webp",
         "release": "2015-12-03",
-        "episode": "S07E20",
+        "episode": "S07E21",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "scamps",
         "name": "Scamps",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/scamps.webp",
         "thumbnail": "/assets/images/episodes/scamps-thumbnail.webp",
         "release": "2015-12-04",
-        "episode": "S07E21",
+        "episode": "S07E22",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2208,17 +2220,17 @@
         "image": "/assets/images/episodes/crossover.webp",
         "thumbnail": "/assets/images/episodes/crossover-thumbnail.webp",
         "release": "2015-12-07",
-        "episode": "S07E22",
+        "episode": "S07E23",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "hall-of-egress",
         "name": "Hall of Egress",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/hall-of-egress.webp",
         "thumbnail": "/assets/images/episodes/hall-of-egress-thumbnail.webp",
         "release": "2015-12-08",
-        "episode": "S07E23",
+        "episode": "S07E24",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2228,17 +2240,17 @@
         "image": "/assets/images/episodes/flute-spell.webp",
         "thumbnail": "/assets/images/episodes/flute-spell-thumbnail.webp",
         "release": "2015-12-09",
-        "episode": "S07E24",
+        "episode": "S07E25",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "the-thin-yellow-line",
         "name": "The Thin Yellow Line",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-thin-yellow-line.webp",
         "thumbnail": "/assets/images/episodes/the-thin-yellow-line-thumbnail.webp",
         "release": "2015-12-10",
-        "episode": "S07E25",
+        "episode": "S07E26",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2248,17 +2260,17 @@
         "image": "/assets/images/episodes/broke-his-crown.webp",
         "thumbnail": "/assets/images/episodes/broke-his-crown-thumbnail.webp",
         "release": "2016-01-17",
-        "episode": "S07E26",
+        "episode": "S08E01",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "don-t-look",
         "name": "Don't Look",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/don-t-look.webp",
         "thumbnail": "/assets/images/episodes/don-t-look-thumbnail.webp",
         "release": "2016-01-18",
-        "episode": "S07E27",
+        "episode": "S08E02",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2268,17 +2280,17 @@
         "image": "/assets/images/episodes/beyond-the-grotto.webp",
         "thumbnail": "/assets/images/episodes/beyond-the-grotto-thumbnail.webp",
         "release": "2016-01-19",
-        "episode": "S07E28",
+        "episode": "S08E03",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "lady-rainicorn-of-the-crystal-dimension",
         "name": "Lady Rainicorn of the Crystal Dimension",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/lady-rainicorn-of-the-crystal-dimension.webp",
         "thumbnail": "/assets/images/episodes/lady-rainicorn-of-the-crystal-dimension-thumbnail.webp",
         "release": "2016-01-20",
-        "episode": "S07E29",
+        "episode": "S08E04",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2288,17 +2300,17 @@
         "image": "/assets/images/episodes/i-am-a-sword.webp",
         "thumbnail": "/assets/images/episodes/i-am-a-sword-thumbnail.webp",
         "release": "2016-01-21",
-        "episode": "S07E30",
+        "episode": "S08E05",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "bun-bun",
         "name": "Bun Bun",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/bun-bun.webp",
         "thumbnail": "/assets/images/episodes/bun-bun-thumbnail.webp",
         "release": "2016-01-22",
-        "episode": "S07E31",
+        "episode": "S08E06",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2308,17 +2320,17 @@
         "image": "/assets/images/episodes/normal-man.webp",
         "thumbnail": "/assets/images/episodes/normal-man-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E32",
+        "episode": "S08E07",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "elemental",
         "name": "Elemental",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/elemental.webp",
         "thumbnail": "/assets/images/episodes/elemental-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E33",
+        "episode": "S08E08",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2328,17 +2340,17 @@
         "image": "/assets/images/episodes/five-short-tables.webp",
         "thumbnail": "/assets/images/episodes/five-short-tables-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E34",
+        "episode": "S08E09",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "the-music-hole",
         "name": "The Music Hole",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-music-hole.webp",
         "thumbnail": "/assets/images/episodes/the-music-hole-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E35",
+        "episode": "S08E010",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2348,17 +2360,17 @@
         "image": "/assets/images/episodes/daddy-daughter-card-wars.webp",
         "thumbnail": "/assets/images/episodes/daddy-daughter-card-wars-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E36",
+        "episode": "S08E011",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "preboot",
         "name": "Preboot",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/preboot.webp",
         "thumbnail": "/assets/images/episodes/preboot-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E37",
+        "episode": "S08E012",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2368,17 +2380,17 @@
         "image": "/assets/images/episodes/reboot.webp",
         "thumbnail": "/assets/images/episodes/reboot-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E38",
+        "episode": "S08E013",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "two-swords",
         "name": "Two Swords",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/two-swords.webp",
         "thumbnail": "/assets/images/episodes/two-swords-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E39",
+        "episode": "S08E014",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2388,17 +2400,17 @@
         "image": "/assets/images/episodes/do-no-harm.webp",
         "thumbnail": "/assets/images/episodes/do-no-harm-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E40",
+        "episode": "S08E015",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "wheels",
         "name": "Wheels",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/wheels.webp",
         "thumbnail": "/assets/images/episodes/wheels-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E41",
+        "episode": "S08E016",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2408,17 +2420,17 @@
         "image": "/assets/images/episodes/high-strangeness.webp",
         "thumbnail": "/assets/images/episodes/high-strangeness-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E42",
+        "episode": "S08E017",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "horses-and-ball",
         "name": "Horse and Ball",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/horses.webp",
         "thumbnail": "/assets/images/episodes/horses-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E43",
+        "episode": "S08E018",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2428,17 +2440,17 @@
         "image": "/assets/images/episodes/jelly-beans-have-power.webp",
         "thumbnail": "/assets/images/episodes/jelly-beans-have-power-thumbnail.webp",
         "release": "2016-01-28",
-        "episode": "S07E44",
+        "episode": "S08E019",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "islands-part-1-the-invitation",
         "name": "Islands Part 1: The Invitation",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/islands-part-1-the-invitation.webp",
         "thumbnail": "/assets/images/episodes/islands-part-1-the-invitation-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E01",
+        "episode": "S08E020",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2448,17 +2460,17 @@
         "image": "/assets/images/episodes/islands-part-2-whipple-the-happy-dragon.webp",
         "thumbnail": "/assets/images/episodes/islands-part-2-whipple-the-happy-dragon-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E02",
+        "episode": "S08E021",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "islands-part-3-mysterious-island",
         "name": "Islands Part 3: Mysterious Island",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/islands-part-3-mysterious-island.webp",
         "thumbnail": "/assets/images/episodes/islands-part-3-mysterious-island-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E03",
+        "episode": "S08E022",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2468,17 +2480,17 @@
         "image": "/assets/images/episodes/islands-part-4-imaginary-resources.webp",
         "thumbnail": "/assets/images/episodes/islands-part-4-imaginary-resources-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E04",
+        "episode": "S08E023",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "islands-part-5-hide-and-seek",
         "name": "Islands Part 5: Hide and Seek",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/islands-part-5-hide-and-seek.webp",
         "thumbnail": "/assets/images/episodes/islands-part-5-hide-and-seek-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E05",
+        "episode": "S08E024",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2488,17 +2500,17 @@
         "image": "/assets/images/episodes/islands-part-6-min-and-marty.webp",
         "thumbnail": "/assets/images/episodes/islands-part-6-min-and-marty-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E06",
+        "episode": "S08E025",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "islands-part-7-helpers",
         "name": "Islands Part 7: Helpers",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/islands-part-7-helpers.webp",
         "thumbnail": "/assets/images/episodes/islands-part-7-helpers-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E07",
+        "episode": "S08E026",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2508,17 +2520,17 @@
         "image": "/assets/images/episodes/islands-part-8-the-light-cloud.webp",
         "thumbnail": "/assets/images/episodes/islands-part-8-the-light-cloud-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E08",
+        "episode": "S08E027",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "orb",
         "name": "Orb",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/orb.webp",
         "thumbnail": "/assets/images/episodes/orb-thumbnail.webp",
         "release": "2017-01-30",
-        "episode": "S08E09",
+        "episode": "S09E01",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2528,17 +2540,17 @@
         "image": "/assets/images/episodes/elements-part-1-skyhooks.webp",
         "thumbnail": "/assets/images/episodes/elements-part-1-skyhooks-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E10",
+        "episode": "S09E02",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "elements-part-2-bespoken-for",
         "name": "Elements Part 2: Bespoken For",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/elements-part-2-bespoken-for.webp",
         "thumbnail": "/assets/images/episodes/elements-part-2-bespoken-for-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E11",
+        "episode": "S09E03",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2548,17 +2560,17 @@
         "image": "/assets/images/episodes/elements-part-3-winter-light.webp",
         "thumbnail": "/assets/images/episodes/elements-part-3-winter-light-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E12",
+        "episode": "S09E04",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "elements-part-4-cloudy",
         "name": "Elements Part 4: Cloudy",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/elements-part-4-cloudy.webp",
         "thumbnail": "/assets/images/episodes/elements-part-4-cloudy-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E13",
+        "episode": "S09E05",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2568,17 +2580,17 @@
         "image": "/assets/images/episodes/elements-part-5-slime-central.webp",
         "thumbnail": "/assets/images/episodes/elements-part-5-slime-central-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E14",
+        "episode": "S09E06",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "elements-part-6-happy-warrior",
         "name": "Elements Part 6: Happy Warrior",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/elements-part-6-happy-warrior.webp",
         "thumbnail": "/assets/images/episodes/elements-part-6-happy-warrior-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E15",
+        "episode": "S09E07",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2588,17 +2600,17 @@
         "image": "/assets/images/episodes/elements-part-7-hero-heart.webp",
         "thumbnail": "/assets/images/episodes/elements-part-7-hero-heart-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E16",
+        "episode": "S09E08",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "elements-part-8-skyhooks-ii",
         "name": "Elements Part 8: Skyhooks II",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/elements-part-8-skyhooks-ii.webp",
         "thumbnail": "/assets/images/episodes/elements-part-8-skyhooks-ii-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E17",
+        "episode": "S09E09",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2608,17 +2620,17 @@
         "image": "/assets/images/episodes/abstract.webp",
         "thumbnail": "/assets/images/episodes/abstract-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E18",
+        "episode": "S09E10",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "ketchup",
         "name": "Ketchup",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/ketchup.webp",
         "thumbnail": "/assets/images/episodes/ketchup-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E19",
+        "episode": "S09E11",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2628,17 +2640,17 @@
         "image": "/assets/images/episodes/fionna-and-cake-and-fionna.webp",
         "thumbnail": "/assets/images/episodes/fionna-and-cake-and-fionna-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E20",
+        "episode": "S09E12",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "whispers",
         "name": "Whispers",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/whispers.webp",
         "thumbnail": "/assets/images/episodes/whispers-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E21",
+        "episode": "S09E13",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2648,17 +2660,17 @@
         "image": "/assets/images/episodes/three-buckets.webp",
         "thumbnail": "/assets/images/episodes/three-buckets-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E22",
+        "episode": "S09E14",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "the-wild-hunt",
         "name": "The Wild Hunt",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/the-wild-hunt.webp",
         "thumbnail": "/assets/images/episodes/the-wild-hunt-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E23",
+        "episode": "S10E01",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2668,17 +2680,17 @@
         "image": "/assets/images/episodes/always-bmo-closing.webp",
         "thumbnail": "/assets/images/episodes/always-bmo-closing-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E24",
+        "episode": "S10E02",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "son-of-rap-bear",
         "name": "Son of Rap Bear",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/son-of-rap-bear.webp",
         "thumbnail": "/assets/images/episodes/son-of-rap-bear-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E25",
+        "episode": "S10E03",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2688,17 +2700,17 @@
         "image": "/assets/images/episodes/bonnibel-bubblegum.webp",
         "thumbnail": "/assets/images/episodes/bonnibel-bubblegum-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E26",
+        "episode": "S10E04",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "seventeen",
         "name": "Seventeen",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/seventeen.webp",
         "thumbnail": "/assets/images/episodes/seventeen-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E27",
+        "episode": "S10E05",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2708,17 +2720,17 @@
         "image": "/assets/images/episodes/ring-of-fire.webp",
         "thumbnail": "/assets/images/episodes/ring-of-fire-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E28",
+        "episode": "S10E06",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "marcy-and-hunson",
         "name": "Marcy & Hunson",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/marcy-and-hunson.webp",
         "thumbnail": "/assets/images/episodes/marcy-and-hunson-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E29",
+        "episode": "S10E07",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2728,17 +2740,17 @@
         "image": "/assets/images/episodes/the-first-investigation.webp",
         "thumbnail": "/assets/images/episodes/the-first-investigation-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E30",
+        "episode": "S10E08",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "blenanas",
         "name": "Blenanas",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/blenanas.webp",
         "thumbnail": "/assets/images/episodes/blenanas-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E31",
+        "episode": "S10E09",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2748,17 +2760,17 @@
         "image": "/assets/images/episodes/jake-the-starchild.webp",
         "thumbnail": "/assets/images/episodes/jake-the-starchild-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E32",
+        "episode": "S10E10",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "temple-of-mars",
         "name": "Temple of Mars",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/temple-of-mars.webp",
         "thumbnail": "/assets/images/episodes/temple-of-mars-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E33",
+        "episode": "S10E11",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2768,17 +2780,17 @@
         "image": "/assets/images/episodes/gumbaldia.webp",
         "thumbnail": "/assets/images/episodes/gumbaldia-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E34",
+        "episode": "S10E12",
         "character_slugs": ["finn", "jake"]
     },
     {
         "slug": "diamonds-and-lemons",
         "name": "Diamonds and Lemons",
-        "description": "Finn and Jake are tasked with investigating reports of a haunting at Joshua and Margaret's old office.",
+        "description": "generic description",
         "image": "/assets/images/episodes/diamonds-and-lemons.webp",
         "thumbnail": "/assets/images/episodes/diamonds-and-lemons-thumbnail.webp",
         "release": "2017-04-24",
-        "episode": "S08E35",
+        "episode": "S10E13",
         "character_slugs": ["finn", "jake"]
     },
     {
@@ -2788,7 +2800,7 @@
         "image": "/assets/images/episodes/come-along-with-me.webp",
         "thumbnail": "/assets/images/episodes/come-along-with-me-thumbnail.webp",
         "release": "2018-09-03",
-        "episode": "S10E13",
+        "episode": "S10E14",
         "character_slugs": ["finn", "jake"]
     }
 ]
