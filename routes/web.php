@@ -24,6 +24,11 @@ Route::get('/info', function () {
         'author' => env('APP_AUTHOR'),
         'github' => env('APP_GITHUB_URL'),
         'documentation' => env('APP_DOCUMENTATION_URL'),
+        'data_count' => [
+            'kingdoms' => \App\Models\Kingdom::count(),
+            'episodes' => \App\Models\Episode::count(),
+            'characters' => \App\Models\Character::count(),
+        ],
         'endpoints' => [
             'kingdoms' => [
                 'list' => route('kingdoms.index'),
