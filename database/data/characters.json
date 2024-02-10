@@ -11,8 +11,8 @@
             "You don't need a mirror to know you look good. You're beautiful on the inside.",
             "'m not a hero because I want your approval. I do it because I want to!"
         ],
-        "image": "/assets/images/characters/finn.webp",
-        "thumbnail": "/assets/images/characters/finn-thumbnail.webp",
+        "image": "https://i.ibb.co/6FhdzPR/finn.webp",
+        "thumbnail": "https://i.ibb.co/8XNhstk/finn-thumbnail.webp",
         "kingdom_slug": "candy-kingdom"
     },
     {
@@ -27,8 +27,8 @@
             "I'm not lazy, I'm on energy saving mode.",
             "I'm not weird. I'm just ahead of the curve."
         ],
-        "image": "/assets/images/characters/jake.webp",
-        "thumbnail": "/assets/images/characters/jake-thumbnail.webp",
+        "image": "https://i.ibb.co/j5gCgMr/jake.webp",
+        "thumbnail": "https://i.ibb.co/2qQ6LyG/jake-thumbnail.webp",
         "kingdom_slug": "candy-kingdom"
     },
     {
@@ -43,8 +43,8 @@
             "I'm not good at feelings, deal with it.",
             "I'm not the Bubblegum villain. I'm the guy who's seen the end of the world."
         ],
-        "image": "/assets/images/characters/marceline.webp",
-        "thumbnail": "/assets/images/characters/marceline-thumbnail.webp",
+        "image": "https://i.ibb.co/BqzcHg4/marceline.webp",
+        "thumbnail": "https://i.ibb.co/zN4QgFR/marceline-thumbnail.webp",
         "kingdom_slug": "nightosphere"
     },
     {
@@ -59,8 +59,8 @@
             "Intelligence is my strong suit; my looks are just a bonus.",
             "I'm not a hero. I'm a high-functioning sociopath."
         ],
-        "image": "/assets/images/characters/princess-bubblegum.webp",
-        "thumbnail": "/assets/images/characters/princess-bubblegum-thumbnail.webp",
+        "image": "https://i.ibb.co/XkYwfyB/princess-bubblegum.webp",
+        "thumbnail": "https://i.ibb.co/ykDCVT0/princess-bubblegum-thumbnail.webp",
         "kingdom_slug": "candy-kingdom"
     },
     {
@@ -75,8 +75,8 @@
             "I'm not a psychopath, I'm a high-functioning sociopath. Do your research.",
             "I'm not a psychopath, I'm a high-functioning sociopath. Do your research."
         ],
-        "image": "/assets/images/characters/ice-king.webp",
-        "thumbnail": "/assets/images/characters/ice-king-thumbnail.webp",
+        "image": "https://i.ibb.co/GCQWKFB/ice-king.webp",
+        "thumbnail": "https://i.ibb.co/5hkLHVS/ice-king-thumbnail.webp",
         "kingdom_slug": "ice-kingdom"
     },
     {
@@ -89,8 +89,36 @@
             "I'm not crazy. I'm just a little unwell.",
             "I'm not a psychopath, I'm a high-functioning sociopath. Do your research."
         ],
-        "image": "/assets/images/characters/lumpsy-space-princess.webp",
-        "thumbnail": "/assets/images/characters/lumpsy-space-princess-thumbnail.webp",
+        "image": "https://i.ibb.co/mvQRm92/lumpsy-space-princess.webp",
+        "thumbnail": "https://i.ibb.co/L5RHTzM/lumpsy-space-princess-thumbnail.webp",
         "kingdom_slug": "lumpy-space"
+    },
+    {
+        "slug": "bmo",
+        "name": "BMO",
+        "full_name": "BMO",
+        "description": "BMO is a little living video game console boy who's a friend to Finn and Jake.", 
+        "specie": "Video Game Console",
+        "quotes": [
+            "I'm not crazy. I'm just a little unwell.",
+            "I'm not a psychopath, I'm a high-functioning sociopath. Do your research."
+        ],
+        "image": "https://i.ibb.co/bLwRdjB/bmo.webp",
+        "thumbnail": "https://i.ibb.co/JKZrXyF/bmo-thumbnail.webp",
+        "kingdom_slug": "candy-kingdom"
+    },
+    {
+        "slug": "the-litch",
+        "name": "The Litch",
+        "full_name": "The Litch",
+        "description": "He is an ancient cosmic being who is the manifestation of the inevitable death of all things. His essence was deposited on Earth millions of years before the start of the show via a catalyst comet.",
+        "specie": "Litch",
+        "quotes": [
+            "No, child. It's all true. The book has great power",
+            "Aren't you cold, Finn?"
+        ],
+        "image": "https://i.ibb.co/G2s3Nzx/the-litch.webp",
+        "thumbnail": "https://i.ibb.co/m4HHqRB/the-litch.webp",
+        "kingdom_slug": "candy-kingdom"
     }
 ]
