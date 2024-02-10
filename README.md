@@ -21,18 +21,10 @@ Data is seeded with the json files **/database/data/** you can add or edit infor
 
 ### 2. Images
 
-Images are located to _/public/assets/images_. Every item has two files with next format:
+Images are hosted in [imgBB](https://imgbb.com)
 
 1.  item-name.webp
 1.  item-name-**thumbnail**.webp
-
-You can optimize the images and then reference them in the json files.
-
-#### Image path
-
-Image paths have to start with **/assets/images/{collection}**
-
-**Collection** can be characters, kingdoms or episodes
 
 ## Example
 
@@ -41,8 +33,8 @@ Image paths have to start with **/assets/images/{collection}**
         "slug": "candy-kingdom",
         "name": "Candy Kingdom",
         "description": "The Candy Kingdom si...",
-        "thumbnail": "/assets/images/kingdoms/candy-kingdom-thumbnail.webp",
-        "image": "/assets/images/kingdoms/candy-kingdom.webp"
+        "thumbnail": "https://imagebb./item-name-thumbnail.webp",
+        "image": "https://imagebb./item-name.webp"
     }
 ```
 
