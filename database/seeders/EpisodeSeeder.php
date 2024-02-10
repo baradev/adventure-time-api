@@ -112,8 +112,8 @@ class EpisodeSeeder extends Seeder
                 "slug" => $value->slug,
                 "name" => $value->name,
                 "description" => $value->description,
-                "image" => $appUrl.$value->image,
-                "thumbnail" => $appUrl.$value->thumbnail,
+                "image" => $value->image,
+                "thumbnail" => $value->thumbnail,
                 "release" => $value->release,
                 "episode" => $value->episode
             ]);
