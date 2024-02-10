@@ -120,5 +120,87 @@
         "image": "https://i.ibb.co/G2s3Nzx/the-litch.webp",
         "thumbnail": "https://i.ibb.co/m4HHqRB/the-litch.webp",
         "kingdom_slug": "candy-kingdom"
+    },
+    {
+        "slug": "snow-golem",
+        "name": "Snow Golem",
+        "full_name": "Snow Golem",
+        "description": "He is shown eating acorns and a pear, possibly his main food source. He finds a lost Fire Wolf Pup and takes care of it before returning it to its family.",
+        "specie": "Golem",
+        "quotes": [],
+        "image": "https://i.ibb.co/xsHyfmJ/the-golem.webp",
+        "thumbnail": "https://i.ibb.co/x3KVNVc/the-golem-thumbnail.webp",
+        "kingdom_slug": "ice-kingdom"
+    },
+    {
+        "slug": "melissa",
+        "name": "Melissa",
+        "full_name": "Melissa",
+        "description": "She is Lumpy Space Princess's best friend, and is currently dating her ex-boyfriend, Brad.",
+        "specie": "Lumpy Space Person",
+        "quotes": [
+            "Tonight ith the weekly promcoming danthe!",
+            "LSP, you're so baaaad... Be there in a thec!"
+        ],
+        "image": "https://i.ibb.co/HXnBcsy/melissa.webp",
+        "thumbnail": "https://i.ibb.co/JBL5dbY/melissa-thumbnail.webp",
+        "kingdom_slug": "lumpy-space"
+    },
+    {
+        "slug": "flame-princess",
+        "name": "Flame Princess",
+        "full_name": "Phoebe",
+        "description": "Flame Princess, whose true name is Phoebe and is occasionally called FP, is the current ruler of the Fire Kingdom as well as Finn's ex-girlfriend.",
+        "specie": "Flame Person",
+        "quotes": [
+            "You! What's wrong with me, huh?! You don't like me?",
+            "I'm so happy! I'm so happy to meet you, Prince! You're my prince."
+        ],
+        "image": "https://i.ibb.co/9Wng2Gd/flame-princess.webp",
+        "thumbnail": "https://i.ibb.co/6RhSkFH/flame-princess-thumbnail.webp",
+        "kingdom_slug": "fire-kingdom"
+    },
+    {
+        "slug": "flambo",
+        "name": "Flambo",
+        "full_name": "Flambo",
+        "description": "Flambo is a flambit from the Fire Kingdom who occasionally appears as Finn and Jake's ally. He seems to have a reputation as an informant and a living lighter.",
+        "specie": "Flame Person",
+        "quotes": [
+            "Come on, you know I'm on the level! The Ice King is schemin' to nabs a princess today! I swears it!",
+            "Oh yeah, I know just the skirt. And she's way hot."
+        ],
+        "image": "https://i.ibb.co/x1PJrd8/flambo.webp",
+        "thumbnail": "https://i.ibb.co/64B5VFG/flambo-thumbnail.webp",
+        "kingdom_slug": "fire-kingdom"
+    },
+    {
+        "slug": "flame-king",
+        "name": "Flame King",
+        "full_name": "Flame King",
+        "description": "Flame King (also known as the Chipmunk King) is the former ruler of the Fire Kingdom and Flame Princess' father.",
+        "specie": "Flame Person",
+        "quotes": [
+            "A koala bear?",
+            "I don't like koalas anymore."
+        ],
+        "image": "https://i.ibb.co/T0FG4FN/flame-king.webp",
+        "thumbnail": "https://i.ibb.co/6bqFzvC/flame-king-thumbnail.webp",
+        "kingdom_slug": "fire-kingdom"
+    },
+    {
+        "slug": "gunter",
+        "name": "Gunter",
+        "full_name": "Gunter",
+        "description": "Gunter is the penguin that most commonly accompanies the Ice King. The Ice King uses Gunter as his personal servant, whereas the other penguins working for the Ice King are essentially slaves.",
+        "specie": "Penguin",
+        "quotes": [
+            "Wenk.",
+            "Wenk."
+        ],
+        "image":"https://i.ibb.co/0FPTG89/gunter.webp",
+        "thumbnail": "https://i.ibb.co/hyZqpT1/gunter-thumbnail.webp",
+        "kingdom_slug": "ice-kingdom"
     }
+
 ]
