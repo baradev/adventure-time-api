@@ -32,8 +32,13 @@ Route::get('/status', function () {
     ]);
 })->name('status');
 
-// base route for the API
+// return the info about the API
 Route::get('/', function () {
+    return redirect()->route('info');
+});
+
+// base route for the API
+Route::get('/info', function () {
     return response()->json([
         'app' => env('APP_NAME'),
         'version' => env('APP_VERSION'),
