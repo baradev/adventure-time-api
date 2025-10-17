@@ -4,7 +4,7 @@
     "buildCommand": "",
     "installCommand": "composer install --no-dev --optimize-autoloader",
     "functions": {
-        "api/index.php": { "runtime": "vercel-php@0.7.2" }
+        "api/bootstrap.php": { "runtime": "vercel-php@0.7.2" }
     },
     "routes": [
         {
@@ -13,13 +13,16 @@
         },
         {
             "src": "/(.*)",
-            "dest": "/api/index.php"
+            "dest": "/api/bootstrap.php"
         }
     ],
     "env": {
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
+        "APP_DEBUG": "false",
         "APP_URL": "https://adventure-time-api-six.vercel.app/",
+
+        "DB_CONNECTION": "sqlite",
+        "DB_DATABASE": "/tmp/database.sqlite",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
