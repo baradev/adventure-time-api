@@ -3,18 +3,21 @@
 // Bootstrap script to set up SQLite database for Vercel
 $dbPath = '/tmp/database.sqlite';
 
-// Create database if it doesn't exist
+// Always ensure database is set up (since /tmp is ephemeral)
 if (!file_exists($dbPath)) {
     // Copy the pre-seeded database from the project
     $sourceDb = __DIR__ . '/../database/database.sqlite';
 
-    if (file_exists($sourceDb)) {
+    if (file_exists($sourceDb) && filesize($sourceDb) > 0) {
+        // Use pre-seeded database
         copy($sourceDb, $dbPath);
+        chmod($dbPath, 0664);
     } else {
-        // Create empty database if source doesn't exist
+        // Create and seed database dynamically
         touch($dbPath);
+        chmod($dbPath, 0664);
 
-        // Run migrations and seeders
+        // Bootstrap Laravel
         $basePath = __DIR__ . '/..';
         require $basePath . '/vendor/autoload.php';
 
@@ -22,10 +25,7 @@ if (!file_exists($dbPath)) {
         $kernel = $app->make(Illuminate\Contracts\Console\Kernel::class);
 
         // Run migrations
-        $kernel->call('migrate', ['--force' => true]);
-
-        // Run seeders
-        $kernel->call('db:seed', ['--force' => true]);
+        $kernel->call('migrate', ['--force' => true, '--seed' => true]);
     }
 }
 
