@@ -1,6 +1,8 @@
 {
     "version": 2,
     "framework": null,
+    "buildCommand": "",
+    "installCommand": "composer install --no-dev --optimize-autoloader",
     "functions": {
         "api/index.php": { "runtime": "vercel-php@0.6.1" }
     },
